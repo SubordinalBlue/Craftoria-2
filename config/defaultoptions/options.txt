@@ -6,3 +6,4 @@ autoJump:false
 soundCategory_master:0.40728476821192056
 soundCategory_music:0.6502347417840374
 soundCategory_ambient:0.704225352112676
+key_key.mute_microphone:key.keyboard.unknown
