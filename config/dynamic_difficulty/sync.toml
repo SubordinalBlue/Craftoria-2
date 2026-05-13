@@ -17,7 +17,7 @@ randomLevelBonus = 0
 expBonus = 0.1
 # --- Environmental Leveling ---
 # How many levels to add per block from world spawn
-levelsPerDistance = 0.01
+levelsPerDistance = 0.005
 # How many levels to add per block below sea level (default sea level is Y=64, can be overridden per dimension)
 levelsPerDeepness = 0.0
 # How many levels to add per block above sea level (default sea level is Y=64, can be overridden per dimension)
