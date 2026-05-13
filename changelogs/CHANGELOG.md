@@ -17,7 +17,6 @@ _Neoforge_ 26.1.2.48-beta | _[Mod Updates](https://github.com/TeamAOF/Craftoria-
 
 * [AgriTech](https://curseforge.com/projects/1485550)
 * [AgriTech: Evolved](https://curseforge.com/projects/1287394)
-* [Chisel Modern](https://curseforge.com/projects/1392308)
 * [Logistics Network](https://curseforge.com/projects/1448257)
 * [Only Flax](https://curseforge.com/projects/1290912)
 * [Paginated Advancements & Custom Frames](https://curseforge.com/projects/618770)
