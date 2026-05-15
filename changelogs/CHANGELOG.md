@@ -28,6 +28,7 @@ _Neoforge_ 26.1.2.48-beta | _[Mod Updates](https://github.com/TeamAOF/Craftoria-
 ### Bug Fixes 🪲
 
 * Incorrect anchor for mc/pack version text on main menu `AK`
+* Crash placing down Crystalix blocks on servers `AK`
 ---
 # Craftoria | v0.4.0
 
