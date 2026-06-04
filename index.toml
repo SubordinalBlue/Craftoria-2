@@ -1912,7 +1912,7 @@ metafile = true
 
 [[files]]
 file = "mods/logistics-network.pw.toml"
-hash = "fe7a1facc8c0e4c4ebf19f6154c8166d814bf8ba2007590550da87ce08fb64d3"
+hash = "f0f20b071e9a8275f8f6a29d446bbf682987e8d1eae4a5a10b98e400ad1a2469"
 metafile = true
 
 [[files]]
