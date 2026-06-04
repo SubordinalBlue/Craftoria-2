@@ -1,13 +1,13 @@
 name = "YAML Config"
-filename = "yamlconfig-neoforge-20.1.1.jar"
+filename = "yamlconfig-neoforge-20.1.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8e747d69cefad9ed75bc1af18300b5faf2bc8e8d"
+hash = "3ae5fc6635ee9e4f51c368232d7e15bae6647e34"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7896673
+file-id = 8188610
 project-id = 1128669
