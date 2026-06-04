@@ -56,3 +56,13 @@ windChargeAirSupplyEnabled = true
 windChargeAirAmount = 100
 #Enable Cursed Earth module
 cursedEarthEnabled = true
+#Speed up leaf decay when a nearby log is broken.
+fastLeafDecayEnabled = true
+#Radius around a broken log to schedule leaf decay ticks. Vanilla leaves decay at distance 7 from a log, so 6 covers all of them.
+# Default: 6
+# Range: 1 ~ 16
+fastLeafDecayRadius = 6
+#Maximum random delay (in ticks) for each scheduled leaf decay. Each leaf picks a delay between 1 and this value so decay looks staggered. 20 ticks = 1 second.
+# Default: 40
+# Range: > 1
+fastLeafDecayMaxDelay = 40

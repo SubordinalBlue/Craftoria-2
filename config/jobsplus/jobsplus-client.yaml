@@ -2,7 +2,7 @@ status_bar:
   jobs:
     #The job status bars to display. Use job IDs.
     #Default value: []
-    - jobsplus:lumberjack
+    []
   x_offset:
     #The x offset of the job status bars.
     #Minimum value: -2147483648, Maximum value: 2147483647, Default value: 3

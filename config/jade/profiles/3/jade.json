@@ -107,6 +107,9 @@
       "potion_effects": true,
       "painting": true
     },
+    "apothic_spawners": {
+      "spawner": true
+    },
     "jade_access": {
       "npc_description": true,
       "held_item": true,
@@ -133,9 +136,15 @@
       "loot_table": false,
       "mod_name": "ON"
     },
+    "apotheosis": {
+      "adventure": true
+    },
     "occultism": {
       "foliot": true,
       "sacrificial": true
+    },
+    "apothic_enchanting": {
+      "ench": true
     },
     "balm": {
       "jade": true

@@ -16,7 +16,7 @@ jobs:
     #Available variables: 'level'
     #Supported operators: +, -, *, /, ^, (, )
     #Default value: '100 + level * level * 0.5791'
-    100 + level * level * 0.75
+    100 + level * level * 1.0
   max_level:
     #the maximum level a player can reach in a job
     #Minimum value: 1, Maximum value: 100000, Default value: 10000

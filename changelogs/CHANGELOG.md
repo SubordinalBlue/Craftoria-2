@@ -1,3 +1,24 @@
+# Craftoria | v0.8.0
+
+_Neoforge_ 26.1.2.71 | _[Mod Updates](https://github.com/TeamAOF/Craftoria-2/blob/main/changelogs/changelog_mods_0.8.0.md)_ | _[Modlist](https://github.com/TeamAOF/Craftoria-2/blob/main/changelogs/modlist_0.8.0.md)_
+
+### Added Mods ✅
+
+* [Apotheosis](https://curseforge.com/projects/313970)
+* [Apothic Attributes](https://curseforge.com/projects/898963)
+* [Apothic Enchanting](https://curseforge.com/projects/1063926)
+* [Apothic Spawners](https://curseforge.com/projects/986583)
+* [Book of Familiars](https://curseforge.com/projects/1532914)
+* [Cable Facades](https://curseforge.com/projects/1140577)
+* [Crafting Station: J/EMI Edition Updated](https://curseforge.com/projects/1127715)
+* [Crash Utilities](https://curseforge.com/projects/371813)
+* [Disconnect Packet Fix](https://curseforge.com/projects/1173964)
+* [FastWorkbench](https://curseforge.com/projects/288885)
+* [Gateways to Eternity](https://curseforge.com/projects/417802)
+* [Placebo](https://curseforge.com/projects/283644)
+* [Powah! (Rearchitected)](https://curseforge.com/projects/633483)
+* [Twemoji](https://curseforge.com/projects/1543001)
+---
 # Craftoria | v0.7.0
 
 _Neoforge_ 26.1.2.60-beta | _[Mod Updates](https://github.com/TeamAOF/Craftoria-2/blob/main/changelogs/changelog_mods_0.7.0.md)_ | _[Modlist](https://github.com/TeamAOF/Craftoria-2/blob/main/changelogs/modlist_0.7.0.md)_

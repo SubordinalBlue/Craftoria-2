@@ -26,11 +26,11 @@ $MODPACK_NAME = "craftoria-2"
 $CLIENT_NAME = "Craftoria 2"
 
 # Version Of The Modpack
-$MODPACK_VERSION = "0.7.0"
+$MODPACK_VERSION = "0.8.0"
 
 # Last Version Of The Modpack
 # Needed For Changelog Parsing
-$LAST_MODPACK_VERSION = "0.6.1"
+$LAST_MODPACK_VERSION = "0.7.0"
 
 # Which modloader the modpack uses
 # Use proper capitalization for display (e.g., "NeoForge", "Fabric", "Forge")
@@ -38,7 +38,7 @@ $LAST_MODPACK_VERSION = "0.6.1"
 $MODLOADER = "NeoForge"
 
 # Version of the modloader
-$MODLOADER_VERSION = "26.1.2.60-beta"
+$MODLOADER_VERSION = "26.1.2.71"
 
 # Minecraft Version (for display purposes)
 $MINECRAFT_VERSION = "26.1.2"

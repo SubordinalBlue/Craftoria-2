@@ -47,8 +47,6 @@
 [Weather]
 	#Enable localized weather patterns where rain or sun is determined per-biome.
 	UseSolarWeather = true
-	#Disable rain/snow in biomes with no natural precipitation (e.g., Deserts).
-	NotRainInDesert = true
 	#Force initialize weather and snow states when the mod or world is first loaded.
 	ShouldInitWeather = false
 	#Force initialize snow states for extreme cold biomes when the mod or world is first loaded.
@@ -71,6 +69,8 @@
 	SnowMeltSpeedMultiplier = 1.0
 	#Automatically reset weather to clear after the player wakes up from a bed.
 	ClearAfterSleep = true
+	#Disable rain/snow in biomes with no natural precipitation (e.g., Deserts).
+	NoRainInDeserts = false
 
 #This module governs how seasonal temperature shifts affect the physical world and the player.
 [Temperature]

@@ -17,3 +17,11 @@
 	# Default: 0.7
 	# Range: 0.25 ~ 3.0
 	hudScale = 0.7
+	#The line width of wires rendered in-world. Higher values produce thicker wires.
+	#Note: Line width rendering is platform-dependent and may be limited to 1 on some GPUs.
+	# Default: 2
+	# Range: 1 ~ 64
+	wireLineWidth = 2
+	#True to render logistics wires with RenderType.lines() instead of distanceLines().
+	#If shaders are used, this type might allow wires to show when they otherwise do not render.
+	useSimpleWireRenderer = false
