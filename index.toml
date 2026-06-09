@@ -2094,6 +2094,11 @@ hash = "eac24e4b0c6ee16d4a8f6ec0bb6dae8bec5d53f6f58c3fc89eda35bb8022841e"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "7afdd157a50028cd201852313b2d94a1584913735b81b7831fcf94d615c6f4ed"
+metafile = true
+
+[[files]]
 file = "mods/laserio.pw.toml"
 hash = "7b10b2f9479245472877fb03f6ced88c08fc08b7fb13ae6eab2ad56dabba2a69"
 metafile = true
@@ -2286,6 +2291,11 @@ metafile = true
 [[files]]
 file = "mods/refurbished-furniture.pw.toml"
 hash = "b47a8e397303b794889ca38225d6e27a5fd9f2b6c43e04ac1b9d7f1a92a90913"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "2e8064e6ac6f707d6df65ee2738279ec31802ef70514584bb8c8a8ed2010f5f6"
 metafile = true
 
 [[files]]
