@@ -12,7 +12,7 @@
 		# Range: > 0
 		rollsPerOperation = 1
 		#The amount of mining operations the spirit can perform before breaking.
-		# Default: 1000
+		# Default: 511
 		# Range: > 0
 		durability = 1000
 		#The amount of same block the spirit will obtain per mining operation
@@ -31,7 +31,7 @@
 		# Range: > 0
 		rollsPerOperation = 1
 		#The amount of mining operations the spirit can perform before breaking.
-		# Default: 400
+		# Default: 1023
 		# Range: > 0
 		durability = 400
 		#The amount of same block the spirit will obtain per mining operation
@@ -50,7 +50,7 @@
 		# Range: > 0
 		rollsPerOperation = 1
 		#The amount of mining operations the spirit can perform before breaking.
-		# Default: 800
+		# Default: 2047
 		# Range: > 0
 		durability = 800
 		#The amount of same block the spirit will obtain per mining operation
@@ -69,7 +69,7 @@
 		# Range: > 0
 		rollsPerOperation = 1
 		#The amount of mining operations the spirit can perform before breaking.
-		# Default: 1600
+		# Default: 4095
 		# Range: > 0
 		durability = 1600
 		#The amount of same block the spirit will obtain per mining operation
@@ -88,7 +88,7 @@
 		# Range: > 0
 		rollsPerOperation = 1
 		#The amount of mining operations the spirit can perform before breaking.
-		# Default: 3200
+		# Default: 8191
 		# Range: > 0
 		durability = 3200
 		#The amount of same block the spirit will obtain per mining operation

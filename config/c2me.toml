@@ -201,7 +201,7 @@ globalExecutorParallelism = "default"
 		mode = "default"
 
 [noTickViewDistance]
-	# (Default: 22) No-tick view distance max concurrent chunk loads 
+	# (Default: 33) No-tick view distance max concurrent chunk loads 
 	#  Lower this for a better latency and higher this for a faster loading
 	maxConcurrentChunkLoads = "default"
 	# (Default: true) Enable server-side support for extended render distance protocol (c2me:ext_render_distance_v1)

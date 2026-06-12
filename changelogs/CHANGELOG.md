@@ -1,3 +1,31 @@
+# Craftoria | v0.9.0
+
+_Neoforge_ 26.1.2.75 | _[Mod Updates](https://github.com/TeamAOF/Craftoria-2/blob/main/changelogs/changelog_mods_0.9.0.md)_ | _[Modlist](https://github.com/TeamAOF/Craftoria-2/blob/main/changelogs/modlist_0.9.0.md)_
+
+### Changes/Improvements ⭐
+
+* Updated all Croptopia models (thanks Rid) `AK`
+* Disable apoth item chat linking `AK`
+
+### Added Mods ✅
+
+* [CTM Lib](https://curseforge.com/projects/1568397)
+* [Ecliptic Seasons : Bundles](https://curseforge.com/projects/1449802)
+* [ExtendedAE](https://curseforge.com/projects/892005)
+* [Glodium](https://curseforge.com/projects/957920)
+* [KubeJS](https://curseforge.com/projects/238086)
+* [Open Together](https://curseforge.com/projects/1572988)
+* [Rhino](https://curseforge.com/projects/416294)
+
+### Removed Mods ❌
+
+* [Cable Facades](https://curseforge.com/projects/1140577)
+* [FastWorkbench](https://curseforge.com/projects/288885)
+
+### Bug Fixes 🪲
+
+* Croptopia's knife conflict with Chisel's iron chisel `SubordinalBlue`
+---
 # Craftoria | v0.8.0
 
 _Neoforge_ 26.1.2.71 | _[Mod Updates](https://github.com/TeamAOF/Craftoria-2/blob/main/changelogs/changelog_mods_0.8.0.md)_ | _[Modlist](https://github.com/TeamAOF/Craftoria-2/blob/main/changelogs/modlist_0.8.0.md)_

@@ -1,0 +1,52 @@
+## Craftoria - 0.8.0 -> 0.9.0
+
+### NeoForge - 26.1.2.71 -> 26.1.2.75
+
+### Added Mods
+* [CTM Lib](https://curseforge.com/projects/1568397)
+* [Ecliptic Seasons : Bundles](https://curseforge.com/projects/1449802)
+* [ExtendedAE](https://curseforge.com/projects/892005)
+* [Glodium](https://curseforge.com/projects/957920)
+* [KubeJS](https://curseforge.com/projects/238086)
+* [Open Together](https://curseforge.com/projects/1572988)
+* [Rhino](https://curseforge.com/projects/416294)
+
+### Removed Mods
+* [Cable Facades](https://curseforge.com/projects/1140577)
+* [FastWorkbench](https://curseforge.com/projects/288885)
+
+### Updated Mods
+* [AdvancedAE-26.1.2-alpha.jar](https://www.curseforge.com/minecraft/mc-mods/advancedae/files/8139539) -> [AdvancedAE-26.1.3-alpha.jar](https://www.curseforge.com/minecraft/mc-mods/advancedae/files/8236325)
+* [animal_pen-neoforge-26.1-2.3.3.jar](https://www.curseforge.com/minecraft/mc-mods/animal-pens/files/8059697) -> [animal_pen-neoforge-26.1-2.4.0.jar](https://www.curseforge.com/minecraft/mc-mods/animal-pens/files/8207866)
+* [balm-neoforge-26.1.2-26.1.2.6.jar](https://www.curseforge.com/minecraft/mc-mods/balm/files/8056289) -> [balm-neoforge-26.1.2-26.1.2.7.jar](https://www.curseforge.com/minecraft/mc-mods/balm/files/8235962)
+* [beautifiedchatserver-26.1.2-3.1.jar](https://www.curseforge.com/minecraft/mc-mods/beautified-chat-server/files/7902388) -> [beautifiedchatserver-26.1.2-3.2.jar](https://www.curseforge.com/minecraft/mc-mods/beautified-chat-server/files/8212221)
+* [BiomesOPlenty-neoforge-26.1.2-26.1.2.0.14.jar](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/files/8195873) -> [BiomesOPlenty-neoforge-26.1.2-26.1.2.0.20.jar](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/files/8235409)
+* [chisel-3.0.11.jar](https://www.curseforge.com/minecraft/mc-mods/chisel-3/files/8151369) -> [chisel-3.0.12.jar](https://www.curseforge.com/minecraft/mc-mods/chisel-3/files/8224767)
+* [collective-26.1.2-8.22.jar](https://www.curseforge.com/minecraft/mc-mods/collective/files/8021353) -> [collective-26.1.2-8.25.jar](https://www.curseforge.com/minecraft/mc-mods/collective/files/8210990)
+* [c2me-neoforge-mc26.1.2-0.3.7+alpha.0.86.jar](https://www.curseforge.com/minecraft/mc-mods/c2me/files/8113918) -> [c2me-neoforge-mc26.1.2-0.4.0-alpha.0.87.jar](https://www.curseforge.com/minecraft/mc-mods/c2me/files/8215509)
+* [Controlling-neoforge-26.1.2-26.1.2.3.jar](https://www.curseforge.com/minecraft/mc-mods/controlling/files/7962133) -> [Controlling-neoforge-26.1.2-26.1.2.4.jar](https://www.curseforge.com/minecraft/mc-mods/controlling/files/8199001)
+* [crystalix-4.0.1+26.1.2.jar](https://www.curseforge.com/minecraft/mc-mods/crystalix/files/8083987) -> [crystalix-4.1.0+26.1.2.jar](https://www.curseforge.com/minecraft/mc-mods/crystalix/files/8229127)
+* [EclipticSeasons-26.1.2-neoforge-0.13.5.jar](https://www.curseforge.com/minecraft/mc-mods/ecliptic-seasons/files/8192137) -> [EclipticSeasons-26.1.2-neoforge-0.13.6.1.jar](https://www.curseforge.com/minecraft/mc-mods/ecliptic-seasons/files/8231936)
+* [Ecologics-NeoFab-26.1.2-2.5.0.jar](https://www.curseforge.com/minecraft/mc-mods/ecologics/files/8111342) -> [Ecologics-NeoFab-26.1.2-2.5.1.jar](https://www.curseforge.com/minecraft/mc-mods/ecologics/files/8206345)
+* [EternalNether-v26.1.1-mc26.1.x-NeoForge.jar](https://www.curseforge.com/minecraft/mc-mods/eternal-nether/files/8194898) -> [EternalNether-v26.1.4-mc26.1.x-NeoForge.jar](https://www.curseforge.com/minecraft/mc-mods/eternal-nether/files/8218522)
+* [fwa+26.1.2-neoforge-1.2.24.jar](https://www.curseforge.com/minecraft/mc-mods/fwa/files/8187089) -> [fwa+26.1.2-neoforge-1.2.30.jar](https://www.curseforge.com/minecraft/mc-mods/fwa/files/8218682)
+* [FramedBlocks-11.2.0.jar](https://www.curseforge.com/minecraft/mc-mods/framedblocks/files/8055265) -> [FramedBlocks-11.3.1.jar](https://www.curseforge.com/minecraft/mc-mods/framedblocks/files/8226341)
+* [ftb-ultimine-neoforge-26.1.2.4.jar](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge/files/8154089) -> [ftb-ultimine-neoforge-26.1.2.5.jar](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge/files/8231335)
+* [guideme-26.1.11-beta.jar](https://www.curseforge.com/minecraft/mc-mods/guideme/files/8129704) -> [guideme-26.1.12-beta.jar](https://www.curseforge.com/minecraft/mc-mods/guideme/files/8204880)
+* [itempeek-1.1.1.jar](https://www.curseforge.com/minecraft/mc-mods/itempeek/files/8181290) -> [itempeek-1.1.2.jar](https://www.curseforge.com/minecraft/mc-mods/itempeek/files/8198457)
+* [lithium-neoforge-0.24.4+mc26.1.2.jar](https://www.curseforge.com/minecraft/mc-mods/lithium/files/8161947) -> [lithium-neoforge-0.24.5+mc26.1.2.jar](https://www.curseforge.com/minecraft/mc-mods/lithium/files/8196297)
+* [logisticsnetworks-26.1.2-1.6.0.jar](https://www.curseforge.com/minecraft/mc-mods/logistics-network/files/8190662) -> [logisticsnetworks-26.1.2-1.8.0.jar](https://www.curseforge.com/minecraft/mc-mods/logistics-network/files/8227197)
+* [modernfix-neoforge-5.27.12+mc26.1.2.jar](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/8099992) -> [modernfix-neoforge-5.27.16+mc26.1.2.jar](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/8224597)
+* [modonomicon-26.1.2-neoforge-1.147.0.jar](https://www.curseforge.com/minecraft/mc-mods/modonomicon/files/8187728) -> [modonomicon-26.1.2-neoforge-1.148.1.jar](https://www.curseforge.com/minecraft/mc-mods/modonomicon/files/8225565)
+* [occultism-26.1.2-neoforge-1.237.0.jar](https://www.curseforge.com/minecraft/mc-mods/occultism/files/8187726) -> [occultism-26.1.2-neoforge-1.240.0.jar](https://www.curseforge.com/minecraft/mc-mods/occultism/files/8236101)
+* [open-parties-and-claims-neoforge-26.1.2-0.26.3.jar](https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims/files/8091542) -> [open-parties-and-claims-neoforge-26.1.2-0.27.5.jar](https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims/files/8230855)
+* [pipe_connector-neoforge-0.6.1.jar](https://www.curseforge.com/minecraft/mc-mods/pipe-connector/files/8096923) -> [pipe_connector-neoforge-0.6.2.jar](https://www.curseforge.com/minecraft/mc-mods/pipe-connector/files/8212421)
+* [PuzzlesLib-v26.1.9-mc26.1.x-NeoForge.jar](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib/files/8168213) -> [PuzzlesLib-v26.1.10-mc26.1.x-NeoForge.jar](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib/files/8225561)
+* [Searchables-neoforge-26.1.2-1.0.1.jar](https://www.curseforge.com/minecraft/mc-mods/searchables/files/7911699) -> [Searchables-neoforge-26.1.2-1.0.2.jar](https://www.curseforge.com/minecraft/mc-mods/searchables/files/8218526)
+* [sophisticatedbackpacks-26.1.2-3.25.62.1799.jar](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks/files/8181768) -> [sophisticatedbackpacks-26.1.2-3.25.67.1868.jar](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks/files/8231057)
+* [sophisticatedcore-26.1.2-1.4.51.1926.jar](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core/files/8186300) -> [sophisticatedcore-26.1.2-1.4.62.2002.jar](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core/files/8231030)
+* [sophisticatedstorage-26.1.2-1.5.69.1768.jar](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage/files/8185754) -> [sophisticatedstorage-26.1.2-1.5.71.1821.jar](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage/files/8217933)
+* [utilitarian-26.1.2-0.20.0.jar](https://www.curseforge.com/minecraft/mc-mods/utilitarian/files/8146487) -> [utilitarian-26.1.2-0.22.0.jar](https://www.curseforge.com/minecraft/mc-mods/utilitarian/files/8216931)
+* [xaerominimap-neoforge-26.1.2-25.3.14.jar](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/8108079) -> [xaerominimap-neoforge-26.1.2-26.1.0.jar](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/8231254)
+* [xaeroworldmap-neoforge-26.1.2-1.40.18.jar](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/8117820) -> [xaeroworldmap-neoforge-26.1.2-1.41.0.jar](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/8231148)
+* [yet_another_config_lib_v3-3.9.3+26.1-neoforge.jar](https://www.curseforge.com/minecraft/mc-mods/yacl/files/7904437) -> [yet_another_config_lib_v3-3.9.4+26.1-neoforge.jar](https://www.curseforge.com/minecraft/mc-mods/yacl/files/8196581)

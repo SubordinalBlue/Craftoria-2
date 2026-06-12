@@ -22,7 +22,7 @@
     // Default: 2 | Range: -∞ ~ +∞
     overlay_inset_x: 2,
     // Default: 2 | Range: -∞ ~ +∞
-    overlay_inset_y: 2,
+    overlay_inset_y: 20,
     /*
      * Default: "top_left"
      * Valid values: "top_left", "top", "top_right", "right", "bottom_right", "bottom", "bottom_left", "left"

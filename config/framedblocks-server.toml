@@ -28,6 +28,6 @@
 	# Range: 1 ~ 32767
 	consumption = 50
 	#How many ticks the Powered Framing Saw takes per crafting operation
-	# Default: 30
+	# Default: 5
 	# Range: 5 ~ 200
 	craftingDuration = 30

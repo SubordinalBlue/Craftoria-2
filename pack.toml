@@ -1,13 +1,13 @@
 name = "craftoria-2"
 author = "TeamAOE"
-version = "0.8.0"
+version = "0.9.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9387875f08bbd49117d4dabc33c6abeb5e25d775cd66fa69fb39459f1ce05764"
+hash = "fde34d03763915b66901e05b7c6d39eda8886ee922a4e2215911f5c51f8a32b5"
 
 [versions]
 minecraft = "26.1.2"
-neoforge = "26.1.2.71"
+neoforge = "26.1.2.75"

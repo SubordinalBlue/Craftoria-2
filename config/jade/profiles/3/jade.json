@@ -139,6 +139,10 @@
     "apotheosis": {
       "adventure": true
     },
+    "extendedae": {
+      "jade_chamber": true,
+      "jade_wireless": true
+    },
     "occultism": {
       "foliot": true,
       "sacrificial": true
