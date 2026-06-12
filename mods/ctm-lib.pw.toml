@@ -1,0 +1,13 @@
+name = "CTM Lib"
+filename = "ctm-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1464b76fb5128232ffe0862216230a4ffeef4fd5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8214436
+project-id = 1568397

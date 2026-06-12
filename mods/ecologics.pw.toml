@@ -1,13 +1,13 @@
 name = "Ecologics"
-filename = "Ecologics-NeoFab-26.1.2-2.5.0.jar"
+filename = "Ecologics-NeoFab-26.1.2-2.5.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0600a1fe345c33b969f3e8955bfee444bb62c8d5"
+hash = "6235845cbaba3a675b35ddb88fa50800ab47086c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8111342
+file-id = 8206345
 project-id = 570463

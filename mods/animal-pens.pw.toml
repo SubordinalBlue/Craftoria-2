@@ -1,13 +1,13 @@
 name = "Animal Pens"
-filename = "animal_pen-neoforge-26.1-2.3.3.jar"
+filename = "animal_pen-neoforge-26.1-2.4.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b7ff2bc2bab4438a0976ac0dc0dc9d067242eda7"
+hash = "de5aee4a63df7f1a94d3aee2185920c5e8a7bddf"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8059697
+file-id = 8207866
 project-id = 1206722
