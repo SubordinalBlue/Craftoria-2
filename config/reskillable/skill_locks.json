@@ -107,6 +107,10 @@
     "neovitae:sentient_axe": ["gathering:33"],
     "neovitae:sentient_hoe": ["farming:33"],
     "neovitae:sentient_shovel": ["gathering:33"],
+    "neovitae:sentient_helmet": ["defense:33"],
+    "neovitae:sentient_plate": ["defense:33"],
+    "neovitae:sentient_leggings": ["defense:33"],
+    "neovitae:sentient_boots": ["defense:33"],
     "neovitae:lex_vitae": ["mining:33", "attack:33", "gathering:33", "farming:33"],
 
 
