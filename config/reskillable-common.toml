@@ -9,7 +9,7 @@ showTabButtons = true
 #Global scaling multiplier for XP costs.
 # Default: 1.0
 # Range: 0.1 ~ 10.0
-xpScalingMultiplier = 1.0
+xpScalingMultiplier = 1.25
 #Maximum level each skill can be upgraded to.
 # Default: 32
 # Range: 2 ~ 100
@@ -29,14 +29,14 @@ attackAttribute = "minecraft:attack_damage"
 attackOperation = "MULTIPLY_TOTAL"
 # Default: 0.15
 # Range: 0.0 ~ 10.0
-attackDamageBonus = 0.1
+attackDamageBonus = 0.025
 #The registry ID of the attribute to use for the Defense skill.
 defenseAttribute = "minecraft:armor"
 #Operation for the Defense skill perk. Valid: ADDITION, MULTIPLY_BASE, MULTIPLY_TOTAL
 defenseOperation = "MULTIPLY_TOTAL"
 # Default: 0.15
 # Range: 0.0 ~ 10.0
-armorBonus = 0.1
+armorBonus = 0.025
 #The registry ID of the attribute to use for the Agility skill.
 agilityAttribute = "minecraft:movement_speed"
 #Operation for the Agility skill perk. Valid: ADDITION, MULTIPLY_BASE, MULTIPLY_TOTAL
