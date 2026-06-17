@@ -11,7 +11,7 @@
   default_hide_dependency_lines: false,
   quests: [
     {
-      x: -2.0,
+      x: 2.0,
       y: 0.0,
       dependencies: [
         "3A20D522302FE7B9",
@@ -36,7 +36,7 @@
       ],
     },
     {
-      x: -2.0,
+      x: 2.0,
       y: 1.5,
       dependencies: [
         "6ADBF1DFBDF45D7C",
@@ -69,7 +69,7 @@
       ],
     },
     {
-      x: -2.0,
+      x: 2.0,
       y: 3.0,
       dependencies: [
         "011E9553CDCAE218",
@@ -102,7 +102,7 @@
       ],
     },
     {
-      x: -2.0,
+      x: 2.0,
       y: 4.5,
       dependencies: [
         "4E1B3935FC8A1170",
@@ -135,7 +135,7 @@
       ],
     },
     {
-      x: -2.0,
+      x: 2.0,
       y: 6.0,
       dependencies: [
         "0FA3C7049E71EA4A",
@@ -169,7 +169,7 @@
       ],
     },
     {
-      x: 3.0,
+      x: 7.0,
       y: -3.0,
       dependencies: [
         "2190034B6F3E2768",
@@ -202,7 +202,7 @@
       ],
     },
     {
-      x: -4.0,
+      x: 0.0,
       y: -3.0,
       dependencies: [
         "3A20D522302FE7B9",
@@ -231,7 +231,7 @@
       ],
     },
     {
-      x: -4.0,
+      x: 0.0,
       y: -4.5,
       dependencies: [
         "4F6FD689E65509BF",
@@ -283,7 +283,7 @@
       ],
     },
     {
-      x: -7.5,
+      x: -3.5,
       y: -1.5,
       dependencies: [
         "7AC17F66BB030623",
@@ -311,7 +311,7 @@
       ],
     },
     {
-      x: -7.5,
+      x: -3.5,
       y: 0.0,
       dependencies: [
         "06D66E791A9939DD",
@@ -341,7 +341,7 @@
       ],
     },
     {
-      x: -9.0,
+      x: -5.0,
       y: 0.0,
       id: "06D66E791A9939DD",
       tasks: [
@@ -371,7 +371,7 @@
         id: "ae2:flawless_budding_quartz",
         count: 1,
       },
-      x: -7.5,
+      x: -3.5,
       y: -3.0,
       dependencies: [
         "03E165961635B0C4",
@@ -385,7 +385,7 @@
       ],
     },
     {
-      x: -1.5,
+      x: 2.5,
       y: -7.0,
       dependencies: [
         "5707197BA2F70A30",
@@ -459,7 +459,7 @@
       ],
     },
     {
-      x: 7.5,
+      x: 11.5,
       y: -3.0,
       dependencies: [
         "151E812270A52250",
@@ -484,7 +484,7 @@
       ],
     },
     {
-      x: 1.0,
+      x: 5.0,
       y: -4.5,
       dependencies: [
         "19C33613F2811BAA",
@@ -509,7 +509,7 @@
       ],
     },
     {
-      x: 6.5,
+      x: 10.5,
       y: -1.5,
       dependencies: [
         "6DFA92E319E7DA77",
@@ -538,7 +538,7 @@
       ],
     },
     {
-      x: 1.0,
+      x: 5.0,
       y: -6.0,
       dependencies: [
         "62FCB2F06126B622",
@@ -565,7 +565,7 @@
       ],
     },
     {
-      x: -6.5,
+      x: -2.5,
       y: 4.5,
       dependencies: [
         "4CD943F9416FB352",
@@ -594,7 +594,7 @@
       ],
     },
     {
-      x: -2.0,
+      x: 2.0,
       y: -4.5,
       dependencies: [
         "5ECC7F4F5D2591D9",
@@ -647,7 +647,7 @@
       ],
     },
     {
-      x: -6.5,
+      x: -2.5,
       y: 3.0,
       dependencies: [
         "5B1D88BFEA39DBAE",
@@ -675,7 +675,7 @@
       ],
     },
     {
-      x: -7.5,
+      x: -3.5,
       y: 1.5,
       dependencies: [
         "5BB4989DC6C5DB7A",
@@ -721,7 +721,7 @@
       ],
     },
     {
-      x: -8.5,
+      x: -4.5,
       y: 7.5,
       dependencies: [
         "72481CA0AC8AFD6A",
@@ -750,7 +750,7 @@
       ],
     },
     {
-      x: -8.5,
+      x: -4.5,
       y: 4.5,
       dependencies: [
         "1EEBC04FABD3B3F2",
@@ -779,7 +779,7 @@
       ],
     },
     {
-      x: -8.5,
+      x: -4.5,
       y: 6.0,
       dependencies: [
         "222793DF035B167C",
@@ -808,7 +808,7 @@
       ],
     },
     {
-      x: 2.0,
+      x: 6.0,
       y: -1.5,
       dependencies: [
         "3A20D522302FE7B9",
@@ -855,7 +855,7 @@
       ],
     },
     {
-      x: -4.5,
+      x: -0.5,
       y: -1.5,
       dependencies: [
         "00633D2B1E1DB778",
@@ -884,7 +884,7 @@
       ],
     },
     {
-      x: -4.0,
+      x: 0.0,
       y: 4.5,
       dependencies: [
         "018956DB32D96ED2",
@@ -913,7 +913,7 @@
       ],
     },
     {
-      x: -3.0,
+      x: 1.0,
       y: -1.5,
       dependencies: [
         "2F993B0F106DB883",
@@ -977,7 +977,7 @@
       ],
     },
     {
-      x: -4.5,
+      x: -0.5,
       y: -7.0,
       dependencies: [
         "5707197BA2F70A30",
@@ -1007,7 +1007,7 @@
       ],
     },
     {
-      x: -0.5,
+      x: 3.5,
       y: -3.0,
       dependencies: [
         "308640ACCC096431",
@@ -1036,7 +1036,7 @@
       ],
     },
     {
-      x: -4.0,
+      x: 0.0,
       y: 3.0,
       dependencies: [
         "23CC2667A1269C9C",
@@ -1065,7 +1065,7 @@
       ],
     },
     {
-      x: -0.5,
+      x: 3.5,
       y: 1.5,
       dependencies: [
         "776B03520D87A3BF",
@@ -1090,7 +1090,7 @@
       ],
     },
     {
-      x: -3.0,
+      x: 1.0,
       y: -7.0,
       dependencies: [
         "758291052A9F6573",
@@ -1115,7 +1115,7 @@
       ],
     },
     {
-      x: -0.5,
+      x: 3.5,
       y: 0.0,
       dependencies: [
         "308640ACCC096431",
@@ -1144,7 +1144,7 @@
       ],
     },
     {
-      x: 5.0,
+      x: 9.0,
       y: 0.0,
       dependencies: [
         "1E5B6884D751F618",
@@ -1178,7 +1178,7 @@
       ],
     },
     {
-      x: 4.0,
+      x: 8.0,
       y: -1.5,
       dependencies: [
         "2190034B6F3E2768",
@@ -1215,7 +1215,7 @@
       ],
     },
     {
-      x: -12.0,
+      x: -8.0,
       y: 1.5,
       dependencies: [
         "75810CDFB362E0CB",
@@ -1253,7 +1253,7 @@
       ],
     },
     {
-      x: -8.5,
+      x: -4.5,
       y: 3.0,
       dependencies: [
         "5B1D88BFEA39DBAE",
@@ -1271,7 +1271,7 @@
       ],
     },
     {
-      x: -6.0,
+      x: -2.0,
       y: -1.5,
       dependencies: [
         "20F99CBAD8D587DA",
@@ -1300,7 +1300,7 @@
       ],
     },
     {
-      x: -10.5,
+      x: -6.5,
       y: 1.5,
       dependencies: [
         "000237AB9C48C8A9",
@@ -1328,7 +1328,7 @@
       ],
     },
     {
-      x: -4.0,
+      x: 0.0,
       y: 1.5,
       dependencies: [
         "0B94435972292812",
@@ -1357,7 +1357,7 @@
       ],
     },
     {
-      x: -4.0,
+      x: 0.0,
       y: 0.0,
       dependencies: [
         "3A20D522302FE7B9",
@@ -1386,7 +1386,7 @@
       ],
     },
     {
-      x: -5.5,
+      x: -1.5,
       y: 0.0,
       dependencies: [
         "0B94435972292812",
@@ -1414,7 +1414,7 @@
       ],
     },
     {
-      x: 1.0,
+      x: 5.0,
       y: -3.0,
       dependencies: [
         "2190034B6F3E2768",
@@ -1439,7 +1439,7 @@
       ],
     },
     {
-      x: -0.5,
+      x: 3.5,
       y: -1.5,
       dependencies: [
         "3A20D522302FE7B9",
@@ -1464,7 +1464,7 @@
       ],
     },
     {
-      x: -10.0,
+      x: -6.0,
       y: 6.0,
       dependencies: [
         "222793DF035B167C",
@@ -1489,7 +1489,7 @@
       ],
     },
     {
-      x: -2.0,
+      x: 2.0,
       y: -3.0,
       dependencies: [
         "3A20D522302FE7B9",
@@ -1518,7 +1518,7 @@
       ],
     },
     {
-      x: 2.5,
+      x: 6.5,
       y: -5.0,
       dependencies: [
         "19C33613F2811BAA",
@@ -1544,7 +1544,7 @@
       ],
     },
     {
-      x: -9.0,
+      x: -5.0,
       y: -5.0,
       size: 1.0,
       optional: true,
@@ -1575,7 +1575,7 @@
         id: "ae2:mysterious_cube",
         count: 1,
       },
-      x: -7.5,
+      x: -3.5,
       y: -4.5,
       size: 1.5,
       id: "03E165961635B0C4",
@@ -1622,7 +1622,7 @@
       ],
     },
     {
-      x: -9.0,
+      x: -5.0,
       y: -3.5,
       dependencies: [
         "7AC17F66BB030623",
@@ -1650,7 +1650,7 @@
       ],
     },
     {
-      x: 7.5,
+      x: 11.5,
       y: 0.0,
       dependencies: [
         "151E812270A52250",
@@ -1668,7 +1668,225 @@
       ],
     },
     {
-      x: 6.0,
+      x: 12.5,
+      y: 1.5,
+      dependencies: [
+        "13600E981D85B79D",
+      ],
+      invisible: true,
+      id: "7FEBDFAE021B3C56",
+      tasks: [
+        {
+          id: "70D2AC096061CBA8",
+          type: "item",
+          item: {
+            id: "ftbquests:missing_item",
+            count: 1,
+            components: {
+              "ftbquests:missing_item": "megacells:1m_crafting_storage",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "0DF446DCB748CCD5",
+          type: "random",
+          exclude_from_claim_all: true,
+        },
+      ],
+    },
+    {
+      x: -2.5,
+      y: 6.0,
+      dependencies: [
+        "17E8751018E9E0F6",
+      ],
+      invisible: true,
+      id: "150D032A0BE1BB76",
+      tasks: [
+        {
+          id: "7275FE6DBFCEAB0A",
+          type: "item",
+          item: {
+            id: "ftbquests:missing_item",
+            count: 1,
+            components: {
+              "ftbquests:missing_item": "megacells:mega_energy_cell",
+            },
+          },
+        },
+      ],
+    },
+    {
+      x: -8.5,
+      y: 7.5,
+      invisible: true,
+      id: "2805DA3A1F411588",
+      tasks: [
+        {
+          id: "0401C419BD7E0968",
+          type: "item",
+          item: {
+            id: "ftbquests:missing_item",
+            count: 1,
+            components: {
+              "ftbquests:missing_item": "appflux:insulating_resin",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "20D790E2BD907CBC",
+          type: "random",
+          exclude_from_claim_all: true,
+        },
+      ],
+    },
+    {
+      x: -10.5,
+      y: 7.5,
+      dependencies: [
+        "2805DA3A1F411588",
+      ],
+      id: "33F695229D12C6FB",
+      tasks: [
+        {
+          id: "7CADB7255707213E",
+          type: "item",
+          item: {
+            id: "ftbquests:missing_item",
+            count: 1,
+            components: {
+              "ftbquests:missing_item": "appflux:harden_insulating_resin",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "161C5A00089CF561",
+          type: "random",
+          exclude_from_claim_all: true,
+        },
+      ],
+    },
+    {
+      x: -5.0,
+      y: -1.5,
+      invisible: true,
+      id: "5319FD97D5133E7A",
+      tasks: [
+        {
+          id: "271EED826A9E39D3",
+          type: "item",
+          item: {
+            id: "ftbquests:missing_item",
+            count: 1,
+            components: {
+              "ftbquests:missing_item": "appflux:redstone_crystal",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "6476882E7D66C58E",
+          type: "random",
+          exclude_from_claim_all: true,
+        },
+      ],
+    },
+    {
+      x: -6.5,
+      y: -1.5,
+      dependencies: [
+        "5319FD97D5133E7A",
+      ],
+      invisible: true,
+      id: "53A07420D75804AB",
+      tasks: [
+        {
+          id: "7C7115013EF075C3",
+          type: "item",
+          item: {
+            id: "ftbquests:missing_item",
+            count: 1,
+            components: {
+              "ftbquests:missing_item": "appflux:charged_redstone",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "08F08C81A7454617",
+          type: "random",
+          exclude_from_claim_all: true,
+        },
+      ],
+    },
+    {
+      x: -6.5,
+      y: 0.0,
+      dependencies: [
+        "06D66E791A9939DD",
+      ],
+      invisible: true,
+      id: "4DAFFFDC31A78665",
+      tasks: [
+        {
+          id: "65D9771CBEBCDBAF",
+          type: "item",
+          item: {
+            id: "ftbquests:missing_item",
+            count: 1,
+            components: {
+              "ftbquests:missing_item": "appflux:energy_processor_press",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "182BAB78401526E8",
+          type: "random",
+          exclude_from_claim_all: true,
+        },
+      ],
+    },
+    {
+      x: -13.5,
+      y: 4.5,
+      dependencies: [
+        "64483AE7888B1FDB",
+      ],
+      invisible: true,
+      id: "0003C38C78609709",
+      tasks: [
+        {
+          id: "6843AFA9FE1CCF07",
+          type: "item",
+          item: {
+            id: "ftbquests:missing_item",
+            count: 1,
+            components: {
+              "ftbquests:missing_item": "megacells:accumulation_processor_press",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "11D2B3BFDBBE5943",
+          type: "random",
+          exclude_from_claim_all: true,
+        },
+      ],
+    },
+    {
+      x: 10.0,
       y: 6.0,
       dependencies: [
         "7A7A4553203B4A21",
@@ -1693,7 +1911,38 @@
       ],
     },
     {
-      x: 7.5,
+      x: -8.0,
+      y: 0.0,
+      dependencies: [
+        "4DAFFFDC31A78665",
+        "7EB363A3DBFB851F",
+        "53A07420D75804AB",
+      ],
+      invisible: true,
+      id: "09B10C121C7E9023",
+      tasks: [
+        {
+          id: "5FEECCD5C78A9DC8",
+          type: "item",
+          item: {
+            id: "ftbquests:missing_item",
+            count: 1,
+            components: {
+              "ftbquests:missing_item": "appflux:energy_processor",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "5A3073A8F803BB24",
+          type: "random",
+          exclude_from_claim_all: true,
+        },
+      ],
+    },
+    {
+      x: 11.5,
       y: 6.0,
       dependencies: [
         "1C7918099D5A55E2",
@@ -1719,7 +1968,395 @@
       ],
     },
     {
-      x: 9.0,
+      x: -12.5,
+      y: 3.0,
+      dependencies: [
+        "0003C38C78609709",
+        "7EB363A3DBFB851F",
+      ],
+      invisible: true,
+      id: "1607D3C2384B6CFF",
+      tasks: [
+        {
+          id: "0075496DAA7A5419",
+          type: "item",
+          item: {
+            id: "ftbquests:missing_item",
+            count: 1,
+            components: {
+              "ftbquests:missing_item": "megacells:accumulation_processor",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "589D8E6B12D993DF",
+          type: "random",
+          exclude_from_claim_all: true,
+        },
+      ],
+    },
+    {
+      x: -9.5,
+      y: -1.5,
+      dependencies: [
+        "09B10C121C7E9023",
+      ],
+      invisible: true,
+      id: "4D7F6656A6A38EE0",
+      tasks: [
+        {
+          id: "0756ED352853E6A8",
+          type: "item",
+          item: {
+            id: "ftbquests:missing_item",
+            count: 1,
+            components: {
+              "ftbquests:missing_item": "appflux:flux_accessor",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "44974D4E1B8A6742",
+          type: "random",
+          exclude_from_claim_all: true,
+        },
+      ],
+    },
+    {
+      x: 12.5,
+      y: -4.5,
+      dependencies: [
+        "7D57C6962950AA98",
+      ],
+      invisible: true,
+      id: "2AB5183A0BD8D387",
+      tasks: [
+        {
+          id: "496413BB4DD15254",
+          type: "item",
+          item: {
+            id: "ftbquests:missing_item",
+            count: 1,
+            components: {
+              "ftbquests:missing_item": "bigger_ae2:4_core_crafting_accelerator",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "25B5C5405BD1AC94",
+          type: "random",
+          exclude_from_claim_all: true,
+        },
+      ],
+    },
+    {
+      x: -12.5,
+      y: 7.5,
+      dependencies: [
+        "33F695229D12C6FB",
+      ],
+      id: "002410CF49E1E14E",
+      tasks: [
+        {
+          id: "2C860FAEA777277A",
+          type: "item",
+          item: {
+            id: "ftbquests:missing_item",
+            count: 1,
+            components: {
+              "ftbquests:missing_item": "appflux:fe_cell_housing",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "541EF472885393FC",
+          type: "random",
+          exclude_from_claim_all: true,
+        },
+      ],
+    },
+    {
+      x: -11.5,
+      y: 1.5,
+      dependencies: [
+        "1607D3C2384B6CFF",
+      ],
+      invisible: true,
+      id: "2B2104D43D2AC913",
+      tasks: [
+        {
+          id: "1EC220C1C6B03A09",
+          type: "item",
+          item: {
+            id: "ftbquests:missing_item",
+            count: 1,
+            components: {
+              "ftbquests:missing_item": "megacells:cell_component_1m",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "301B9AAE373D5D64",
+          type: "random",
+          exclude_from_claim_all: true,
+        },
+      ],
+    },
+    {
+      x: -11.5,
+      y: 0.0,
+      dependencies: [
+        "2B2104D43D2AC913",
+      ],
+      invisible: true,
+      id: "7214945A24412561",
+      tasks: [
+        {
+          id: "54EC39D9E1127E84",
+          type: "item",
+          item: {
+            id: "ftbquests:missing_item",
+            count: 1,
+            components: {
+              "ftbquests:missing_item": "megacells:cell_component_4m",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "5C8F291F8ABC9EB2",
+          type: "random",
+          exclude_from_claim_all: true,
+        },
+      ],
+    },
+    {
+      x: -11.5,
+      y: -1.5,
+      dependencies: [
+        "7214945A24412561",
+      ],
+      invisible: true,
+      id: "0A6AD6B06F6DFC75",
+      tasks: [
+        {
+          id: "622555B5208FED6C",
+          type: "item",
+          item: {
+            id: "ftbquests:missing_item",
+            count: 1,
+            components: {
+              "ftbquests:missing_item": "megacells:cell_component_16m",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "3451308A95A7676D",
+          type: "random",
+          exclude_from_claim_all: true,
+        },
+      ],
+    },
+    {
+      x: -11.5,
+      y: -3.0,
+      dependencies: [
+        "0A6AD6B06F6DFC75",
+      ],
+      invisible: true,
+      id: "277F167EA7E9A759",
+      tasks: [
+        {
+          id: "01DD68088A9C7438",
+          type: "item",
+          item: {
+            id: "ftbquests:missing_item",
+            count: 1,
+            components: {
+              "ftbquests:missing_item": "megacells:cell_component_64m",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "331A97AAA5E87888",
+          type: "random",
+          exclude_from_claim_all: true,
+        },
+      ],
+    },
+    {
+      x: -11.5,
+      y: -4.5,
+      dependencies: [
+        "277F167EA7E9A759",
+      ],
+      invisible: true,
+      id: "1704E827B6D3E46A",
+      tasks: [
+        {
+          id: "04759DA805F412B4",
+          type: "item",
+          item: {
+            id: "ftbquests:missing_item",
+            count: 1,
+            components: {
+              "ftbquests:missing_item": "megacells:cell_component_256m",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "78C088EAA5DDDA21",
+          type: "random",
+          exclude_from_claim_all: true,
+        },
+      ],
+    },
+    {
+      x: -8.0,
+      y: -1.5,
+      dependencies: [
+        "09B10C121C7E9023",
+      ],
+      invisible: true,
+      id: "20F66D987F15593E",
+      tasks: [
+        {
+          id: "4926D0AEBFE87248",
+          type: "item",
+          item: {
+            id: "ftbquests:missing_item",
+            count: 1,
+            components: {
+              "ftbquests:missing_item": "appflux:core_1k",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "3484B30E395D7347",
+          type: "random",
+          exclude_from_claim_all: true,
+        },
+      ],
+    },
+    {
+      x: -10.5,
+      y: 6.0,
+      invisible: true,
+      id: "67F060243167F8BF",
+      tasks: [
+        {
+          id: "09C6D58EF7B67D14",
+          type: "item",
+          item: {
+            id: "ftbquests:missing_item",
+            count: 1,
+            components: {
+              "ftbquests:missing_item": "megacells:sky_steel_ingot",
+            },
+          },
+        },
+        {
+          id: "3B078D67FAB423D5",
+          type: "item",
+          item: {
+            id: "ftbquests:missing_item",
+            count: 1,
+            components: {
+              "ftbquests:missing_item": "megacells:sky_bronze_ingot",
+            },
+          },
+        },
+        {
+          id: "29034FEE05CB1122",
+          type: "item",
+          item: {
+            id: "ftbquests:missing_item",
+            count: 1,
+            components: {
+              "ftbquests:missing_item": "megacells:sky_osmium_ingot",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "27397A56F31F8ADE",
+          type: "random",
+          exclude_from_claim_all: true,
+        },
+      ],
+    },
+    {
+      x: -12.5,
+      y: 6.0,
+      dependencies: [
+        "67F060243167F8BF",
+      ],
+      id: "2BB266022C8BFC8C",
+      tasks: [
+        {
+          id: "3FE398092DA84CD8",
+          type: "item",
+          item: {
+            id: "ftbquests:missing_item",
+            count: 1,
+            components: {
+              "ftbquests:missing_item": "megacells:mega_item_cell_housing",
+            },
+          },
+        },
+        {
+          id: "7089F89CF5814AD4",
+          type: "item",
+          item: {
+            id: "ftbquests:missing_item",
+            count: 1,
+            components: {
+              "ftbquests:missing_item": "megacells:mega_fluid_cell_housing",
+            },
+          },
+        },
+        {
+          id: "05C2557006914826",
+          type: "item",
+          item: {
+            id: "ftbquests:missing_item",
+            count: 1,
+            components: {
+              "ftbquests:missing_item": "megacells:mega_chemical_cell_housing",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "0C9841C1EE21465F",
+          type: "random",
+          exclude_from_claim_all: true,
+        },
+      ],
+    },
+    {
+      x: 13.0,
       y: 7.5,
       dependencies: [
         "1BB254E1EB0BBFEC",
@@ -1738,7 +2375,7 @@
       ],
     },
     {
-      x: 4.5,
+      x: 8.5,
       y: 6.0,
       dependencies: [
         "6D18BFC48A82E53E",
@@ -1763,7 +2400,7 @@
       ],
     },
     {
-      x: 3.0,
+      x: 7.0,
       y: 6.0,
       dependencies: [
         "000F7897FF9ED7DC",
@@ -1788,7 +2425,7 @@
       ],
     },
     {
-      x: 0.0,
+      x: 4.0,
       y: 5.0,
       dependencies: [
         "000F7897FF9ED7DC",
@@ -1813,7 +2450,7 @@
       ],
     },
     {
-      x: 1.5,
+      x: 5.5,
       y: 6.0,
       dependencies: [
         "7277A0413086D71A",
@@ -1842,7 +2479,7 @@
         id: "extendedae:entro_budding_fully",
         count: 1,
       },
-      x: 0.0,
+      x: 4.0,
       y: 7.5,
       dependencies: [
         "6976592A2FB069AD",
@@ -1863,7 +2500,7 @@
       ],
     },
     {
-      x: -1.5,
+      x: 2.5,
       y: 7.5,
       dependencies: [
         "77978ED3AC1DFA26",
@@ -1888,7 +2525,7 @@
       ],
     },
     {
-      x: -3.0,
+      x: 1.0,
       y: 7.5,
       id: "77978ED3AC1DFA26",
       tasks: [
@@ -1910,7 +2547,7 @@
       ],
     },
     {
-      x: 9.0,
+      x: 13.0,
       y: 4.5,
       dependencies: [
         "7E61A32D2D2CABA9",
@@ -1929,7 +2566,7 @@
       ],
     },
     {
-      x: 7.5,
+      x: 11.5,
       y: 4.5,
       dependencies: [
         "08EEBF1026064FB5",
@@ -1964,7 +2601,30 @@
       ],
     },
     {
-      x: 6.0,
+      x: 11.5,
+      y: 7.5,
+      dependencies: [
+        "7EB363A3DBFB851F",
+        "79F451F9C8D02A69",
+      ],
+      invisible: true,
+      id: "01523A200F5E4361",
+      tasks: [
+        {
+          id: "13108B818BE61E4C",
+          type: "item",
+          item: {
+            id: "ftbquests:missing_item",
+            count: 1,
+            components: {
+              "ftbquests:missing_item": "extendedae:ex_inscriber",
+            },
+          },
+        },
+      ],
+    },
+    {
+      x: 10.0,
       y: 7.5,
       dependencies: [
         "7A7A4553203B4A21",
@@ -1982,7 +2642,7 @@
       ],
     },
     {
-      x: -0.5,
+      x: 3.5,
       y: -4.5,
       dependencies: [
         "61340C2A12FEAA26",
@@ -2000,7 +2660,7 @@
       ],
     },
     {
-      x: 4.5,
+      x: 8.5,
       y: 4.5,
       dependencies: [
         "7A7A4553203B4A21",
@@ -2025,7 +2685,7 @@
       ],
     },
     {
-      x: 9.0,
+      x: 13.0,
       y: 6.0,
       dependencies: [
         "79F451F9C8D02A69",
@@ -2058,7 +2718,7 @@
       ],
     },
     {
-      x: 3.0,
+      x: 7.0,
       y: 0.0,
       dependencies: [
         "2190034B6F3E2768",
@@ -2084,7 +2744,7 @@
       ],
     },
     {
-      x: 5.0,
+      x: 9.0,
       y: 1.5,
       dependencies: [
         "3973F425BD96668A",
@@ -2109,7 +2769,7 @@
       ],
     },
     {
-      x: 4.0,
+      x: 8.0,
       y: -4.5,
       dependencies: [
         "2F6C16939D136BF0",
@@ -2135,7 +2795,7 @@
       ],
     },
     {
-      x: 1.0,
+      x: 5.0,
       y: 1.5,
       dependencies: [
         "0547229FF5334CF5",
@@ -2177,7 +2837,7 @@
       ],
     },
     {
-      x: 1.0,
+      x: 5.0,
       y: 0.0,
       dependencies: [
         "2190034B6F3E2768",
@@ -2195,7 +2855,7 @@
       ],
     },
     {
-      x: 6.0,
+      x: 10.0,
       y: 4.5,
       dependencies: [
         "082DE0CA32524489",
@@ -2222,7 +2882,7 @@
       ],
     },
     {
-      x: 4.5,
+      x: 8.5,
       y: 7.5,
       dependencies: [
         "7A7A4553203B4A21",
@@ -2247,7 +2907,7 @@
       ],
     },
     {
-      x: -9.0,
+      x: -5.0,
       y: 1.5,
       dependencies: [
         "5B1D88BFEA39DBAE",
@@ -2272,7 +2932,7 @@
       ],
     },
     {
-      x: -10.5,
+      x: -6.5,
       y: 3.0,
       dependencies: [
         "000237AB9C48C8A9",
@@ -2297,7 +2957,7 @@
       ],
     },
     {
-      x: 6.0,
+      x: 10.0,
       y: 1.5,
       dependencies: [
         "3973F425BD96668A",
@@ -2326,7 +2986,7 @@
       ],
     },
     {
-      x: 6.0,
+      x: 10.0,
       y: -4.5,
       dependencies: [
         "5C62B98FAA02C7BF",
@@ -2351,7 +3011,7 @@
       ],
     },
     {
-      x: 4.0,
+      x: 8.0,
       y: 1.5,
       dependencies: [
         "43333532F2C73DB3",
@@ -2378,7 +3038,7 @@
       ],
     },
     {
-      x: -6.0,
+      x: -2.0,
       y: -5.0,
       optional: true,
       id: "19A2B9A9862C59F2",
@@ -2394,7 +3054,29 @@
       ],
     },
     {
-      x: 3.5,
+      x: -9.5,
+      y: 1.5,
+      dependencies: [
+        "02E883FCCA2FB281",
+      ],
+      invisible: true,
+      id: "29CFD0E01542A93D",
+      tasks: [
+        {
+          id: "296D280C36FC0365",
+          type: "item",
+          item: {
+            id: "ftbquests:missing_item",
+            count: 1,
+            components: {
+              "ftbquests:missing_item": "ae2wtlib:quantum_bridge_card",
+            },
+          },
+        },
+      ],
+    },
+    {
+      x: 7.5,
       y: -6.5,
       hide_dependency_lines: true,
       dependencies: [
@@ -2424,7 +3106,7 @@
       ],
     },
     {
-      x: 9.649999999999999,
+      x: 13.65,
       y: -1.5,
       dependencies: [
         "470F9F5495948475",
@@ -2444,7 +3126,7 @@
       ],
     },
     {
-      x: 5.0,
+      x: 9.0,
       y: -3.0,
       dependencies: [
         "6DFA92E319E7DA77",
@@ -2462,7 +3144,145 @@
       ],
     },
     {
-      x: -7.5,
+      x: -9.5,
+      y: -3.0,
+      dependencies: [
+        "4D7F6656A6A38EE0",
+      ],
+      invisible: true,
+      id: "3E41681892FA2E44",
+      tasks: [
+        {
+          id: "517FFDD881D7A526",
+          type: "item",
+          item: {
+            id: "ftbquests:missing_item",
+            count: 1,
+            components: {
+              "ftbquests:missing_item": "appflux:induction_card",
+            },
+          },
+        },
+      ],
+    },
+    {
+      x: -8.0,
+      y: -3.0,
+      dependencies: [
+        "20F66D987F15593E",
+      ],
+      invisible: true,
+      id: "0CED385F6DAF4B37",
+      tasks: [
+        {
+          id: "70E9A28AADB73B07",
+          type: "item",
+          item: {
+            id: "ftbquests:missing_item",
+            count: 1,
+            components: {
+              "ftbquests:missing_item": "appflux:core_4k",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "415110140AEC07ED",
+          type: "random",
+          exclude_from_claim_all: true,
+        },
+      ],
+    },
+    {
+      x: -8.0,
+      y: -4.5,
+      dependencies: [
+        "0CED385F6DAF4B37",
+      ],
+      invisible: true,
+      id: "087678FA1EE668FC",
+      tasks: [
+        {
+          id: "0B8F035FEF7691B3",
+          type: "item",
+          item: {
+            id: "ftbquests:missing_item",
+            count: 1,
+            components: {
+              "ftbquests:missing_item": "appflux:core_16k",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "73C5EA2E20C636C4",
+          type: "random",
+          exclude_from_claim_all: true,
+        },
+      ],
+    },
+    {
+      x: -8.0,
+      y: -6.0,
+      dependencies: [
+        "087678FA1EE668FC",
+      ],
+      invisible: true,
+      id: "6C96F5D54545AD02",
+      tasks: [
+        {
+          id: "513EDECFC47337F0",
+          type: "item",
+          item: {
+            id: "ftbquests:missing_item",
+            count: 1,
+            components: {
+              "ftbquests:missing_item": "appflux:core_64k",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "1AC47E944A1BC50A",
+          type: "random",
+          exclude_from_claim_all: true,
+        },
+      ],
+    },
+    {
+      x: -8.0,
+      y: -7.5,
+      dependencies: [
+        "6C96F5D54545AD02",
+      ],
+      invisible: true,
+      id: "3480351307F0DD04",
+      tasks: [
+        {
+          id: "148E46A05BF842A1",
+          type: "item",
+          item: {
+            id: "ftbquests:missing_item",
+            count: 1,
+            components: {
+              "ftbquests:missing_item": "appflux:core_256k",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "4EF680CD75397C24",
+          type: "random",
+          exclude_from_claim_all: true,
+        },
+      ],
+    },
+    {
+      x: -3.5,
       y: -6.0,
       optional: true,
       id: "15008EFBA92CC3DC",
@@ -2484,7 +3304,96 @@
       ],
     },
     {
-      x: -4.0,
+      x: -9.5,
+      y: 4.5,
+      dependencies: [
+        "0418659818AD0712",
+      ],
+      id: "123F10122DCC72F9",
+      tasks: [
+        {
+          id: "45F1186BD0DD7288",
+          type: "item",
+          item: {
+            id: "ftbquests:missing_item",
+            count: 1,
+            components: {
+              "ftbquests:missing_item": "megacells:decompression_module",
+            },
+          },
+        },
+        {
+          id: "749A97750FEBEEC4",
+          type: "item",
+          item: {
+            id: "ftbquests:missing_item",
+            count: 1,
+            components: {
+              "ftbquests:missing_item": "megacells:compression_card",
+            },
+          },
+        },
+      ],
+    },
+    {
+      x: -10.5,
+      y: 3.0,
+      dependencies: [
+        "2B2104D43D2AC913",
+      ],
+      id: "0418659818AD0712",
+      tasks: [
+        {
+          id: "696A0B10694CDCEF",
+          type: "item",
+          item: {
+            id: "ftbquests:missing_item",
+            count: 1,
+            components: {
+              "ftbquests:missing_item": "megacells:bulk_item_cell",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "7B49A5D718AEC3FA",
+          type: "random",
+          exclude_from_claim_all: true,
+        },
+      ],
+    },
+    {
+      x: -11.5,
+      y: 4.5,
+      dependencies: [
+        "1607D3C2384B6CFF",
+      ],
+      dependency_requirement: "one_completed",
+      id: "4E33ED9C42F906F6",
+      tasks: [
+        {
+          id: "633983595B887CF5",
+          type: "item",
+          item: {
+            id: "ftbquests:missing_item",
+            count: 1,
+            components: {
+              "ftbquests:missing_item": "megacells:radioactive_chemical_cell",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "143837495F181ABF",
+          type: "random",
+          exclude_from_claim_all: true,
+        },
+      ],
+    },
+    {
+      x: 0.0,
       y: 6.0,
       id: "7C8EF2A739AAC1D7",
       tasks: [
@@ -2527,7 +3436,7 @@
       ],
     },
     {
-      x: 7.5,
+      x: 11.5,
       y: 3.0,
       dependencies: [
         "4EC894E7808440AC",
@@ -2584,12 +3493,13 @@
       ],
     },
     {
-      x: 8.5,
+      x: 12.5,
       y: -1.5,
       hide_dependency_lines: true,
       dependencies: [
         "3504BCE26041D225",
         "79F451F9C8D02A69",
+        "1607D3C2384B6CFF",
         "151E812270A52250",
       ],
       id: "4670BD132DF4A70E",
@@ -2652,7 +3562,7 @@
       ],
     },
     {
-      x: 3.0,
+      x: 7.0,
       y: 1.5,
       dependencies: [
         "6C8AB8E9A547D1C9",
@@ -2823,7 +3733,7 @@
       id: "52015E0DFD46EDB1",
     },
     {
-      x: -12.0,
+      x: -8.0,
       y: 5.5,
       width: 2.0,
       height: 2.0,
@@ -2843,7 +3753,7 @@
       id: "3823B62CD106CAB7",
     },
     {
-      x: 2.0,
+      x: 6.0,
       y: 3.5,
       width: 2.0,
       height: 2.0,
@@ -2871,6 +3781,16 @@
       rotation: 0.0,
       image: "ftbquests:textures/gui/background_warm_black.png",
       id: "4A403D70E7F996C9",
+    },
+    {
+      x: 0.0,
+      y: 30.0,
+      width: 1.0,
+      height: 1.0,
+      rotation: 0.0,
+      image: "ftbquests:textures/shapes/circle/shape.png",
+      color: 2621695,
+      id: "69B9DBCA720DCDF4",
     },
   ],
 }
