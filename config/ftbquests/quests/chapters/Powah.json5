@@ -59,13 +59,6 @@
           count: 4,
         },
       ],
-      rewards: [
-        {
-          id: "4C0DBDDFA616FD3C",
-          type: "choice",
-          exclude_from_claim_all: true,
-        },
-      ],
     },
     {
       x: 1.5,
@@ -98,13 +91,6 @@
             id: "powah:binding_card_dim",
             count: 1,
           },
-        },
-      ],
-      rewards: [
-        {
-          id: "7E886D2E983424DA",
-          type: "random",
-          exclude_from_claim_all: true,
         },
       ],
     },
@@ -144,13 +130,6 @@
           },
         },
       ],
-      rewards: [
-        {
-          id: "00461487A32C9379",
-          type: "random",
-          exclude_from_claim_all: true,
-        },
-      ],
     },
     {
       icon: {
@@ -186,13 +165,6 @@
             id: "powah:player_transmitter_basic",
             count: 1,
           },
-        },
-      ],
-      rewards: [
-        {
-          id: "06667341DE87BEB2",
-          type: "random",
-          exclude_from_claim_all: true,
         },
       ],
     },
@@ -240,13 +212,6 @@
           },
         },
       ],
-      rewards: [
-        {
-          id: "39A7EDC276DDDE37",
-          type: "random",
-          exclude_from_claim_all: true,
-        },
-      ],
     },
     {
       icon: {
@@ -264,13 +229,6 @@
             id: "powah:energizing_orb",
             count: 1,
           },
-        },
-      ],
-      rewards: [
-        {
-          id: "0082B641AFDA8932",
-          type: "random",
-          exclude_from_claim_all: true,
         },
       ],
     },
@@ -294,44 +252,6 @@
           count: 36,
         },
       ],
-      rewards: [
-        {
-          id: "0660C48DD1D3C018",
-          type: "item",
-          item: {
-            id: "powah:uraninite",
-            count: 1,
-          },
-          count: 64,
-        },
-        {
-          id: "7EB8383298531CFD",
-          type: "item",
-          item: {
-            id: "minecraft:coal_block",
-            count: 1,
-          },
-          count: 64,
-        },
-        {
-          id: "41DE9628E8DC6237",
-          type: "item",
-          item: {
-            id: "powah:dry_ice",
-            count: 1,
-          },
-          count: 64,
-        },
-        {
-          id: "429D3A5D53252703",
-          type: "item",
-          item: {
-            id: "minecraft:redstone_block",
-            count: 1,
-          },
-          count: 64,
-        },
-      ],
     },
     {
       x: 0.0,
@@ -348,13 +268,6 @@
             id: "powah:aerial_pearl",
             count: 1,
           },
-        },
-      ],
-      rewards: [
-        {
-          id: "1A6AAC483A2B5B97",
-          type: "random",
-          exclude_from_claim_all: true,
         },
       ],
     },
@@ -378,13 +291,6 @@
             count: 1,
           },
           count: 4,
-        },
-      ],
-      rewards: [
-        {
-          id: "4C4653CE9F5A3FAA",
-          type: "random",
-          exclude_from_claim_all: true,
         },
       ],
     },
@@ -435,7 +341,7 @@
       y: 3.0,
       width: 1.5,
       height: 1.5,
-      rotation: 0,
+      rotation: 0.0,
       image: "powah:textures/item/crystal_blazing.png",
       id: "0349EECD0B6279D5",
     },
@@ -444,7 +350,7 @@
       y: 3.0,
       width: 1.5,
       height: 1.5,
-      rotation: 0,
+      rotation: 0.0,
       image: "powah:textures/item/crystal_niotic.png",
       id: "32FC7E28A4B8D3B6",
     },
@@ -453,7 +359,7 @@
       y: 0.0,
       width: 1.5,
       height: 1.5,
-      rotation: 0,
+      rotation: 0.0,
       image: "powah:textures/item/crystal_spirited.png",
       id: "098344D905A79A2C",
     },
@@ -462,7 +368,7 @@
       y: 0.0,
       width: 1.5,
       height: 1.5,
-      rotation: 0,
+      rotation: 0.0,
       image: "powah:textures/item/crystal_nitro.png",
       id: "0231D030637163C0",
     },

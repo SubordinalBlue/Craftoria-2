@@ -1,0 +1,43 @@
+## Craftoria - 0.10.0 -> 0.11.0
+
+### Added Mods
+* [AE2 Network Analyser](https://curseforge.com/projects/961856)
+* [AEInfinityBooster](https://curseforge.com/projects/559313)
+* [Camol](https://curseforge.com/projects/1214396)
+* [DimStorage](https://curseforge.com/projects/353882)
+* [EdivadLib](https://curseforge.com/projects/638508)
+* [FastSuite](https://curseforge.com/projects/475117)
+* [FTB Filter System](https://curseforge.com/projects/943925)
+* [FTB Quests (NeoForge)](https://curseforge.com/projects/289412)
+* [FTB Teams (NeoForge)](https://curseforge.com/projects/404468)
+* [Get It Together, Drops!](https://curseforge.com/projects/411045)
+* [Just Enough Recipe Sharing (JERS)](https://curseforge.com/projects/1511109)
+* [Leaves Be Gone](https://curseforge.com/projects/686435)
+* [Little Big Redstone](https://curseforge.com/projects/1180560)
+* [Max Health Fix](https://curseforge.com/projects/492246)
+* [More Dragon Eggs](https://curseforge.com/projects/358700)
+* [Neo Vitae](https://curseforge.com/projects/1404763)
+* [PolyLib](https://curseforge.com/projects/576589)
+* [Reskillable Reimagined](https://curseforge.com/projects/1170464)
+* [Shrink.](https://curseforge.com/projects/426386)
+* [Sodium Extra](https://curseforge.com/projects/447673)
+* [Tesseract API (NeoForge)](https://curseforge.com/projects/1067672)
+
+### Removed Mods
+* [Accelerated Decay](https://curseforge.com/projects/699872)
+* [Jobs+](https://curseforge.com/projects/916985)
+* [Welcome Message](https://curseforge.com/projects/551215)
+
+### Updated Mods
+* [animal_pen-neoforge-26.1-2.4.0.jar](https://www.curseforge.com/minecraft/mc-mods/animal-pens/files/8207866) -> [animal_pen-neoforge-26.1-2.4.1.jar](https://www.curseforge.com/minecraft/mc-mods/animal-pens/files/8261123)
+* [appliedenergistics2-26.1.9-alpha.jar](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2/files/8129795) -> [appliedenergistics2-26.1.10-beta.jar](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2/files/8257570)
+* [chat_heads-1.2.2-neoforge-26.1.jar](https://www.curseforge.com/minecraft/mc-mods/chat-heads/files/7818851) -> [chat_heads-1.2.4-neoforge-26.1.jar](https://www.curseforge.com/minecraft/mc-mods/chat-heads/files/8174614)
+* [collective-26.1.2-8.25.jar](https://www.curseforge.com/minecraft/mc-mods/collective/files/8210990) -> [collective-26.1.2-8.27.jar](https://www.curseforge.com/minecraft/mc-mods/collective/files/8260577)
+* [ctm-1.0.1.jar](https://www.curseforge.com/minecraft/mc-mods/ctm-lib/files/8214436) -> [ctm-26.1.2.2.jar](https://www.curseforge.com/minecraft/mc-mods/ctm-lib/files/8260644)
+* [EclipticSeasons-26.1.2-neoforge-0.13.7.jar](https://www.curseforge.com/minecraft/mc-mods/ecliptic-seasons/files/8253027) -> [EclipticSeasons-26.1.2-neoforge-0.13.8.jar](https://www.curseforge.com/minecraft/mc-mods/ecliptic-seasons/files/8257684)
+* [FramedBlocks-11.3.1.jar](https://www.curseforge.com/minecraft/mc-mods/framedblocks/files/8226341) -> [FramedBlocks-11.3.2.jar](https://www.curseforge.com/minecraft/mc-mods/framedblocks/files/8255890)
+* [lithium-neoforge-0.24.5+mc26.1.2.jar](https://www.curseforge.com/minecraft/mc-mods/lithium/files/8196297) -> [lithium-neoforge-0.24.6+mc26.1.2.jar](https://www.curseforge.com/minecraft/mc-mods/lithium/files/8260968)
+* [logisticsnetworks-26.1.2-1.8.1.jar](https://www.curseforge.com/minecraft/mc-mods/logistics-network/files/8246774) -> [logisticsnetworks-26.1.2-1.8.3.jar](https://www.curseforge.com/minecraft/mc-mods/logistics-network/files/8258744)
+* [pipe_connector-neoforge-0.6.3.jar](https://www.curseforge.com/minecraft/mc-mods/pipe-connector/files/8238155) -> [pipe_connector-neoforge-0.6.4.jar](https://www.curseforge.com/minecraft/mc-mods/pipe-connector/files/8259508)
+* [punchy-2.5.5-neoforge-26.1-26.1.1-26.1.2.jar](https://www.curseforge.com/minecraft/mc-mods/punchy/files/8103839) -> [punchy-2.5.6-neoforge-26.1-26.1.1-26.1.2.jar](https://www.curseforge.com/minecraft/mc-mods/punchy/files/8259242)
+* [sophisticatedcore-26.1.2-1.4.67.2024.jar](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core/files/8249799) -> [sophisticatedcore-26.1.2-1.4.68.2028.jar](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core/files/8261417)

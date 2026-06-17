@@ -20,6 +20,8 @@
   "apothic_spawners:spawner": null,
   "balm:jade": null,
   "crystalix:crystalix": null,
+  "dimstorage:dim_block_base": null,
+  "dimstorage:dim_tank": null,
   "dynamic_difficulty:level": null,
   "eclipticseasons:animal": null,
   "eclipticseasons:cauldron": null,
@@ -96,6 +98,7 @@
   "minecraft:villager_profession": null,
   "minecraft:waxed": null,
   "minecraft:zombie_villager": null,
+  "neovitae:block_info": null,
   "occultism:foliot": null,
   "occultism:sacrificial": null,
   "theurgy:mercury_flux": null

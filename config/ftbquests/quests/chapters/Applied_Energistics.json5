@@ -29,9 +29,10 @@
       ],
       rewards: [
         {
-          id: "698F7D71FD0D5F0E",
-          type: "xp_levels",
-          xp_levels: 3,
+          id: "124E412699B99792",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -54,17 +55,10 @@
       ],
       rewards: [
         {
-          id: "21DADA83ED283B8D",
-          type: "xp_levels",
-          xp_levels: 3,
-        },
-        {
-          id: "64117ACE028E8B22",
-          type: "item",
-          item: {
-            id: "ae2:cell_component_1k",
-            count: 1,
-          },
+          id: "7FB0321E7772C895",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -87,17 +81,10 @@
       ],
       rewards: [
         {
-          id: "629F4E8BAD755AC0",
-          type: "item",
-          item: {
-            id: "ae2:cell_component_4k",
-            count: 1,
-          },
-        },
-        {
-          id: "38C97B963E7A9BE9",
-          type: "xp_levels",
-          xp_levels: 3,
+          id: "197AD4B0DCA21407",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -120,17 +107,10 @@
       ],
       rewards: [
         {
-          id: "1D9DADBC2E8AA5CE",
-          type: "item",
-          item: {
-            id: "ae2:cell_component_16k",
-            count: 1,
-          },
-        },
-        {
-          id: "07039D80C4D1FD58",
-          type: "xp_levels",
-          xp_levels: 3,
+          id: "69720319DF85C3C0",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -153,18 +133,10 @@
       ],
       rewards: [
         {
-          id: "7209C7C77A092FD2",
-          type: "item",
-          item: {
-            id: "ae2:cell_component_16k",
-            count: 1,
-          },
-          count: 2,
-        },
-        {
-          id: "30F85612DF26E4B9",
-          type: "xp_levels",
-          xp_levels: 10,
+          id: "58A33FD5D72CDD9F",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -195,9 +167,10 @@
       ],
       rewards: [
         {
-          id: "0CED5DF28A4C800C",
+          id: "4F0FC8D200DE4796",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -220,13 +193,10 @@
       ],
       rewards: [
         {
-          id: "469604149BFD30B6",
-          type: "item",
-          item: {
-            id: "ae2:basic_card",
-            count: 1,
-          },
-          count: 4,
+          id: "3295EE06D4687BF4",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -273,12 +243,10 @@
       ],
       rewards: [
         {
-          id: "310954C9D4E85BA0",
-          type: "item",
-          item: {
-            id: "ae2:capacity_card",
-            count: 1,
-          },
+          id: "0D95575EE6BE8E2B",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -301,12 +269,10 @@
       ],
       rewards: [
         {
-          id: "7C98F59E0D95748F",
-          type: "item",
-          item: {
-            id: "ae2:quartz_block",
-            count: 1,
-          },
+          id: "1C9DFEF43266AE55",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -330,13 +296,10 @@
       ],
       rewards: [
         {
-          id: "6A09DB88F9B4B8E1",
-          type: "item",
-          item: {
-            id: "ae2:charged_certus_quartz_crystal",
-            count: 1,
-          },
-          count: 6,
+          id: "7424D425584789AA",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -356,13 +319,10 @@
       ],
       rewards: [
         {
-          id: "0211F3A0C1A73BCE",
-          type: "item",
-          item: {
-            id: "minecraft:coal",
-            count: 1,
-          },
-          count: 16,
+          id: "18A03B534AE8D066",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -381,6 +341,14 @@
         {
           id: "5F129202A9A96BE7",
           type: "checkmark",
+        },
+      ],
+      rewards: [
+        {
+          id: "02F6CC8CBB759165",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -403,58 +371,10 @@
       ],
       rewards: [
         {
-          id: "511137F0271BF23D",
-          type: "item",
-          item: {
-            id: "minecraft:red_dye",
-            count: 1,
-          },
-          count: 16,
-        },
-        {
-          id: "5FBF6A97D8F8EEDD",
-          type: "item",
-          item: {
-            id: "minecraft:black_dye",
-            count: 1,
-          },
-          count: 16,
-        },
-        {
-          id: "71032C377B4BECEA",
-          type: "item",
-          item: {
-            id: "minecraft:pink_dye",
-            count: 1,
-          },
-          count: 16,
-        },
-        {
-          id: "27EDF9F173350EE9",
-          type: "item",
-          item: {
-            id: "minecraft:purple_dye",
-            count: 1,
-          },
-          count: 16,
-        },
-        {
-          id: "2F17A61172A98108",
-          type: "item",
-          item: {
-            id: "minecraft:blue_dye",
-            count: 1,
-          },
-          count: 16,
-        },
-        {
-          id: "253374992FF71BEE",
-          type: "item",
-          item: {
-            id: "minecraft:orange_dye",
-            count: 1,
-          },
-          count: 16,
+          id: "63C1F24D33D20300",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -477,9 +397,10 @@
       ],
       rewards: [
         {
-          id: "5F34EE268C4B866F",
-          type: "xp_levels",
-          xp_levels: 3,
+          id: "5F642B1C67DEE45A",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -502,9 +423,10 @@
       ],
       rewards: [
         {
-          id: "39CF7B7F506C1B09",
+          id: "20703A970183D009",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -527,13 +449,10 @@
       ],
       rewards: [
         {
-          id: "5B07CBCB5D1DEDBE",
-          type: "item",
-          item: {
-            id: "ae2:crafting_unit",
-            count: 1,
-          },
-          count: 2,
+          id: "42E13F997493D5A0",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -558,9 +477,10 @@
       ],
       rewards: [
         {
-          id: "22BCBDA8B04D6E59",
+          id: "03A78C5593C3A6A2",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -583,13 +503,10 @@
       ],
       rewards: [
         {
-          id: "55FCE164C4E3347D",
-          type: "item",
-          item: {
-            id: "minecraft:coal_block",
-            count: 1,
-          },
-          count: 4,
+          id: "4E8BDAB22188ADBE",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -636,13 +553,10 @@
       ],
       rewards: [
         {
-          id: "1DA21049558EC6CB",
-          type: "item",
-          item: {
-            id: "minecraft:diamond",
-            count: 1,
-          },
-          count: 2,
+          id: "574EB0CEE5CA15BE",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -665,12 +579,10 @@
       ],
       rewards: [
         {
-          id: "488747420A7DACE9",
-          type: "item",
-          item: {
-            id: "justdirethings:generatort1",
-            count: 1,
-          },
+          id: "6A43A8B5F24CA5A0",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -693,30 +605,10 @@
       ],
       rewards: [
         {
-          id: "5D5858A73AF1F387",
-          type: "item",
-          item: {
-            id: "minecraft:redstone",
-            count: 1,
-          },
-          count: 16,
-        },
-        {
-          id: "2104D2193157BBF7",
-          type: "item",
-          item: {
-            id: "minecraft:quartz",
-            count: 1,
-          },
-          count: 16,
-        },
-        {
-          id: "14A26E61E0DAA06D",
-          type: "item",
-          item: {
-            id: "minecraft:water_bucket",
-            count: 1,
-          },
+          id: "149C5EEC978A89F7",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -739,13 +631,10 @@
       ],
       rewards: [
         {
-          id: "2C7BE28293B7A1D0",
-          type: "item",
-          item: {
-            id: "minecraft:glowstone_dust",
-            count: 1,
-          },
-          count: 32,
+          id: "613C25F5234059B6",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -768,13 +657,10 @@
       ],
       rewards: [
         {
-          id: "394C83AD2A2D56E7",
-          type: "item",
-          item: {
-            id: "ae2:fluix_glass_cable",
-            count: 1,
-          },
-          count: 8,
+          id: "3D195394189D9C55",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -797,13 +683,10 @@
       ],
       rewards: [
         {
-          id: "129E97EF597D73F5",
-          type: "item",
-          item: {
-            id: "ae2:fluix_smart_cable",
-            count: 1,
-          },
-          count: 8,
+          id: "65EF2A56A5F8D6AC",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -835,22 +718,10 @@
       ],
       rewards: [
         {
-          id: "5F33C0E07373F231",
-          type: "item",
-          item: {
-            id: "ae2:formation_core",
-            count: 1,
-          },
-          count: 4,
-        },
-        {
-          id: "7C17F06D3E3A7C65",
-          type: "item",
-          item: {
-            id: "ae2:annihilation_core",
-            count: 1,
-          },
-          count: 4,
+          id: "4684CA5DEB09FECD",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -873,13 +744,10 @@
       ],
       rewards: [
         {
-          id: "4346B0559B23C443",
-          type: "item",
-          item: {
-            id: "minecraft:iron_block",
-            count: 1,
-          },
-          count: 2,
+          id: "5D2B641C7ACAB408",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -902,13 +770,10 @@
       ],
       rewards: [
         {
-          id: "166A2D0AC1640930",
-          type: "item",
-          item: {
-            id: "ae2:fluix_crystal",
-            count: 1,
-          },
-          count: 6,
+          id: "47C7ED760F4D86C5",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -948,31 +813,10 @@
       ],
       rewards: [
         {
-          id: "4A509593407C5B83",
-          type: "item",
-          item: {
-            id: "ae2:logic_processor",
-            count: 1,
-          },
-          count: 4,
-        },
-        {
-          id: "3403EF5631F133F4",
-          type: "item",
-          item: {
-            id: "ae2:calculation_processor",
-            count: 1,
-          },
-          count: 4,
-        },
-        {
-          id: "7FAE2D078DDA6493",
-          type: "item",
-          item: {
-            id: "ae2:engineering_processor",
-            count: 1,
-          },
-          count: 4,
+          id: "4E57B4ACD7819C84",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -996,13 +840,10 @@
       ],
       rewards: [
         {
-          id: "2F41C07E8E1555AE",
-          type: "item",
-          item: {
-            id: "minecraft:iron_nugget",
-            count: 1,
-          },
-          count: 64,
+          id: "446C73AEAE4FBBEF",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -1025,13 +866,10 @@
       ],
       rewards: [
         {
-          id: "5E58DDA6031498CC",
-          type: "item",
-          item: {
-            id: "ae2:quartz_glass",
-            count: 1,
-          },
-          count: 8,
+          id: "356D9B9F47EC0AC6",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -1054,13 +892,10 @@
       ],
       rewards: [
         {
-          id: "78FF30B40088AFFD",
-          type: "item",
-          item: {
-            id: "ae2:fluix_crystal",
-            count: 1,
-          },
-          count: 6,
+          id: "7F6D7D20DFF1EB14",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -1083,9 +918,10 @@
       ],
       rewards: [
         {
-          id: "49842A571F4F31E1",
+          id: "6F31D700B46319F7",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -1108,9 +944,10 @@
       ],
       rewards: [
         {
-          id: "0D7031DB5896EED3",
-          type: "xp_levels",
-          xp_levels: 3,
+          id: "24EF02E597D26595",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -1133,13 +970,10 @@
       ],
       rewards: [
         {
-          id: "443F1FFF4F2C0C43",
-          type: "item",
-          item: {
-            id: "ae2:me_p2p_tunnel",
-            count: 1,
-          },
-          count: 2,
+          id: "3D10C08383A875A4",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -1171,9 +1005,10 @@
       ],
       rewards: [
         {
-          id: "0ACEC65510DFD353",
+          id: "4023BBE9C9DCA14D",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -1204,13 +1039,10 @@
       ],
       rewards: [
         {
-          id: "537B5D00BC4CA48D",
-          type: "item",
-          item: {
-            id: "ae2:pattern_provider",
-            count: 1,
-          },
-          count: 2,
+          id: "7BFE9C21A1A6431C",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -1242,13 +1074,10 @@
       ],
       rewards: [
         {
-          id: "525E814BEA0A1D86",
-          type: "item",
-          item: {
-            id: "ae2:tiny_tnt",
-            count: 1,
-          },
-          count: 8,
+          id: "2B1AEC8C2B67BB06",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -1267,6 +1096,14 @@
             id: "ae2:quartz_fiber",
             count: 1,
           },
+        },
+      ],
+      rewards: [
+        {
+          id: "325315D61E0A6DA3",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -1289,13 +1126,10 @@
       ],
       rewards: [
         {
-          id: "7AA7313B93BC911E",
-          type: "item",
-          item: {
-            id: "ae2:certus_quartz_dust",
-            count: 1,
-          },
-          count: 16,
+          id: "1B01C64DDE16C82C",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -1318,12 +1152,10 @@
       ],
       rewards: [
         {
-          id: "18AD91CC2C1AEC38",
-          type: "item",
-          item: {
-            id: "minecraft:anvil",
-            count: 1,
-          },
+          id: "55458FDD665E4CF9",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -1346,13 +1178,10 @@
       ],
       rewards: [
         {
-          id: "6CF4E73E892B3100",
-          type: "item",
-          item: {
-            id: "ae2:fluix_crystal",
-            count: 1,
-          },
-          count: 6,
+          id: "4F6E39FB0898984B",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -1375,13 +1204,10 @@
       ],
       rewards: [
         {
-          id: "53BD864809AA078A",
-          type: "item",
-          item: {
-            id: "ae2:engineering_processor",
-            count: 1,
-          },
-          count: 4,
+          id: "6B212248626018E4",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -1404,12 +1230,10 @@
       ],
       rewards: [
         {
-          id: "58C261CC4FB3A5BC",
-          type: "item",
-          item: {
-            id: "ae2:spatial_pylon",
-            count: 1,
-          },
+          id: "238626E433FE4995",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -1432,9 +1256,10 @@
       ],
       rewards: [
         {
-          id: "4EB7EE1AA4B22006",
+          id: "1C90925523E56F13",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -1457,9 +1282,10 @@
       ],
       rewards: [
         {
-          id: "4954656D533D1DA9",
-          type: "xp_levels",
-          xp_levels: 3,
+          id: "5C75F8B9C8CE6823",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -1482,9 +1308,10 @@
       ],
       rewards: [
         {
-          id: "50D78C0A9BBCBA81",
-          type: "xp_levels",
-          xp_levels: 2,
+          id: "27732817CFC3ED7B",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -1507,13 +1334,10 @@
       ],
       rewards: [
         {
-          id: "756A6D08A73A71F1",
-          type: "item",
-          item: {
-            id: "ae2:advanced_card",
-            count: 1,
-          },
-          count: 2,
+          id: "5B002FEF1E8C910B",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -1537,9 +1361,10 @@
       ],
       rewards: [
         {
-          id: "47BF0A7CD752A54C",
+          id: "05B8FC79EC1B4D3F",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -1561,12 +1386,10 @@
       ],
       rewards: [
         {
-          id: "280E6D85B4EBA567",
-          type: "item",
-          item: {
-            id: "ae2:certus_quartz_wrench",
-            count: 1,
-          },
+          id: "5860655676E160DE",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -1615,9 +1438,10 @@
       ],
       rewards: [
         {
-          id: "5A7420421EC2F0B8",
-          type: "xp_levels",
-          xp_levels: 3,
+          id: "7660905C832E87D4",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -1640,12 +1464,10 @@
       ],
       rewards: [
         {
-          id: "3F855D29C8CF2CF0",
-          type: "item",
-          item: {
-            id: "ae2:growth_accelerator",
-            count: 1,
-          },
+          id: "73169643A585D6E7",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -1664,6 +1486,14 @@
             id: "ae2:1k_crafting_storage",
             count: 1,
           },
+        },
+      ],
+      rewards: [
+        {
+          id: "4EE58A6881AB7CB7",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -1690,9 +1520,10 @@
       ],
       rewards: [
         {
-          id: "0DF446DCB748CCD5",
+          id: "6ECCF6CE221A40E2",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -1717,6 +1548,14 @@
           },
         },
       ],
+      rewards: [
+        {
+          id: "2B37C179C05F85EC",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
+        },
+      ],
     },
     {
       x: -8.5,
@@ -1738,9 +1577,10 @@
       ],
       rewards: [
         {
-          id: "20D790E2BD907CBC",
+          id: "108316B730EAF992",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -1766,9 +1606,10 @@
       ],
       rewards: [
         {
-          id: "161C5A00089CF561",
+          id: "2C783102066BCCA3",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -1792,9 +1633,10 @@
       ],
       rewards: [
         {
-          id: "6476882E7D66C58E",
+          id: "4511D3E1B6C440CB",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -1821,9 +1663,10 @@
       ],
       rewards: [
         {
-          id: "08F08C81A7454617",
+          id: "52BC7204D37A4318",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -1850,9 +1693,10 @@
       ],
       rewards: [
         {
-          id: "182BAB78401526E8",
+          id: "56E44D75B1F350B9",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -1879,9 +1723,10 @@
       ],
       rewards: [
         {
-          id: "11D2B3BFDBBE5943",
+          id: "67AE258344657999",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -1904,9 +1749,10 @@
       ],
       rewards: [
         {
-          id: "0EC479A8EDA1FC13",
+          id: "56492D3FE10BC58F",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -1935,9 +1781,10 @@
       ],
       rewards: [
         {
-          id: "5A3073A8F803BB24",
+          id: "5F7C59F9E9B45CCC",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -1961,9 +1808,10 @@
       ],
       rewards: [
         {
-          id: "045DE40E1E97F508",
+          id: "59A59991A6B39401",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -1991,9 +1839,10 @@
       ],
       rewards: [
         {
-          id: "589D8E6B12D993DF",
+          id: "6C3E849955F112BD",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -2020,9 +1869,10 @@
       ],
       rewards: [
         {
-          id: "44974D4E1B8A6742",
+          id: "1601EFCD420D5BED",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -2049,9 +1899,10 @@
       ],
       rewards: [
         {
-          id: "25B5C5405BD1AC94",
+          id: "6F72C219579EA9D8",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -2077,9 +1928,10 @@
       ],
       rewards: [
         {
-          id: "541EF472885393FC",
+          id: "3801DED19C8E6076",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -2106,9 +1958,10 @@
       ],
       rewards: [
         {
-          id: "301B9AAE373D5D64",
+          id: "593404442F4555D8",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -2135,9 +1988,10 @@
       ],
       rewards: [
         {
-          id: "5C8F291F8ABC9EB2",
+          id: "4DF5FAEC8F4EDEA6",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -2164,9 +2018,10 @@
       ],
       rewards: [
         {
-          id: "3451308A95A7676D",
+          id: "0A5B9D6D34DA349F",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -2193,9 +2048,10 @@
       ],
       rewards: [
         {
-          id: "331A97AAA5E87888",
+          id: "5D31331B1C1185B6",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -2222,9 +2078,10 @@
       ],
       rewards: [
         {
-          id: "78C088EAA5DDDA21",
+          id: "6BA3BC082023A797",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -2251,9 +2108,10 @@
       ],
       rewards: [
         {
-          id: "3484B30E395D7347",
+          id: "199A0F9BD435E202",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -2299,9 +2157,10 @@
       ],
       rewards: [
         {
-          id: "27397A56F31F8ADE",
+          id: "0FFC54FA6FCC2F39",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -2349,9 +2208,10 @@
       ],
       rewards: [
         {
-          id: "0C9841C1EE21465F",
+          id: "4C48F53E701CE0A0",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -2371,6 +2231,14 @@
             id: "extendedae:ex_charger",
             count: 1,
           },
+        },
+      ],
+      rewards: [
+        {
+          id: "21D1ED568015246E",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -2393,9 +2261,10 @@
       ],
       rewards: [
         {
-          id: "5D1E4BA7B2691E5F",
+          id: "14488AEC5B0D47F6",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -2418,9 +2287,10 @@
       ],
       rewards: [
         {
-          id: "5477CBC889F23A57",
+          id: "492CC9F77723A98A",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -2443,9 +2313,10 @@
       ],
       rewards: [
         {
-          id: "0456E0B0E7EBAFBA",
+          id: "616C4BF82C9692D8",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -2468,9 +2339,10 @@
       ],
       rewards: [
         {
-          id: "01AA6AF89D03D475",
+          id: "0D61BA3E048DDB8E",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -2493,9 +2365,10 @@
       ],
       rewards: [
         {
-          id: "20B6E0179DB27491",
+          id: "5AFB9B6C98564665",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -2518,9 +2391,10 @@
       ],
       rewards: [
         {
-          id: "34198398161D91E1",
+          id: "2A6510C22D85E1B7",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -2540,9 +2414,10 @@
       ],
       rewards: [
         {
-          id: "254840F798B783F4",
+          id: "7F82C25620B2FDED",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -2562,6 +2437,14 @@
             id: "extendedae:ex_drive",
             count: 1,
           },
+        },
+      ],
+      rewards: [
+        {
+          id: "0B93DC2E8A1866F4",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -2594,9 +2477,10 @@
       ],
       rewards: [
         {
-          id: "79591BEECA3E9FED",
+          id: "41B1CDA9772E868F",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -2622,6 +2506,14 @@
           },
         },
       ],
+      rewards: [
+        {
+          id: "599A2045BA62E8A9",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
+        },
+      ],
     },
     {
       x: 10.0,
@@ -2640,6 +2532,14 @@
           },
         },
       ],
+      rewards: [
+        {
+          id: "4DA9E28654BEE972",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
+        },
+      ],
     },
     {
       x: 3.5,
@@ -2656,6 +2556,14 @@
             id: "ae2:io_port",
             count: 1,
           },
+        },
+      ],
+      rewards: [
+        {
+          id: "63A228FB0A536666",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -2678,9 +2586,10 @@
       ],
       rewards: [
         {
-          id: "4ABF116F7E35CA23",
+          id: "731938F4CB7FE9CF",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -2711,9 +2620,10 @@
       ],
       rewards: [
         {
-          id: "6EA1C4A6D7262666",
+          id: "1F0AD3E9287FB986",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -2742,6 +2652,14 @@
           },
         },
       ],
+      rewards: [
+        {
+          id: "3CEFB5A2AE0E4635",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
+        },
+      ],
     },
     {
       x: 9.0,
@@ -2762,9 +2680,10 @@
       ],
       rewards: [
         {
-          id: "46943F3129540B97",
+          id: "778D933DD4E3275A",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -2788,9 +2707,10 @@
       ],
       rewards: [
         {
-          id: "15FBB3CC36423F44",
+          id: "649EB1D19E8B306B",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -2835,6 +2755,14 @@
           },
         },
       ],
+      rewards: [
+        {
+          id: "6A31D74100BAFEDD",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
+        },
+      ],
     },
     {
       x: 5.0,
@@ -2851,6 +2779,14 @@
             id: "ae2:interface",
             count: 1,
           },
+        },
+      ],
+      rewards: [
+        {
+          id: "2D0C4FA699A3E9F0",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -2880,6 +2816,14 @@
           },
         },
       ],
+      rewards: [
+        {
+          id: "3AC4200A5BD5F1FF",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
+        },
+      ],
     },
     {
       x: 8.5,
@@ -2900,9 +2844,10 @@
       ],
       rewards: [
         {
-          id: "1558830E8B4804F1",
+          id: "39C115B1C154DF39",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -2925,9 +2870,10 @@
       ],
       rewards: [
         {
-          id: "5F713766371E63B1",
+          id: "5AC560FB6C5A6017",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -2950,9 +2896,10 @@
       ],
       rewards: [
         {
-          id: "3A1C0D6E2929420E",
+          id: "3E500E1B87B923D4",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -2975,13 +2922,10 @@
       ],
       rewards: [
         {
-          id: "11C26D2E087E8767",
-          type: "item",
-          item: {
-            id: "ae2:blank_pattern",
-            count: 1,
-          },
-          count: 15,
+          id: "32D04FC8C170EDEE",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -3004,9 +2948,10 @@
       ],
       rewards: [
         {
-          id: "11A6B818579B2BA2",
+          id: "32C41F924E4DCAA6",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -3036,6 +2981,14 @@
           },
         },
       ],
+      rewards: [
+        {
+          id: "0495DCF2B94AA83C",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
+        },
+      ],
     },
     {
       x: -2.0,
@@ -3050,6 +3003,14 @@
             id: "extendedae:me_packing_tape",
             count: 1,
           },
+        },
+      ],
+      rewards: [
+        {
+          id: "3A21B408AFB1E809",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -3074,6 +3035,14 @@
           },
         },
       ],
+      rewards: [
+        {
+          id: "2DEC2D055EC9B7EF",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
+        },
+      ],
     },
     {
       x: 7.5,
@@ -3095,13 +3064,10 @@
       ],
       rewards: [
         {
-          id: "0068B282BDD039F9",
-          type: "item",
-          item: {
-            id: "ae2:wireless_booster",
-            count: 1,
-          },
-          count: 8,
+          id: "0F752F7343CB7528",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -3124,6 +3090,14 @@
           },
         },
       ],
+      rewards: [
+        {
+          id: "6563216C878F3A29",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
+        },
+      ],
     },
     {
       x: 9.0,
@@ -3140,6 +3114,14 @@
             id: "advanced_ae:small_adv_pattern_provider",
             count: 1,
           },
+        },
+      ],
+      rewards: [
+        {
+          id: "2795B7C76AD6CE15",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -3162,6 +3144,14 @@
               "ftbquests:missing_item": "appflux:induction_card",
             },
           },
+        },
+      ],
+      rewards: [
+        {
+          id: "182EA11B02CCB6B2",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -3188,9 +3178,10 @@
       ],
       rewards: [
         {
-          id: "415110140AEC07ED",
+          id: "1CAEEADD6E38E9B3",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -3217,9 +3208,10 @@
       ],
       rewards: [
         {
-          id: "73C5EA2E20C636C4",
+          id: "7177CD5E88804BFC",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -3246,9 +3238,10 @@
       ],
       rewards: [
         {
-          id: "1AC47E944A1BC50A",
+          id: "4AAAA7E2994987EF",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -3275,9 +3268,10 @@
       ],
       rewards: [
         {
-          id: "4EF680CD75397C24",
+          id: "1ACB6C14ED351531",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -3294,12 +3288,10 @@
       ],
       rewards: [
         {
-          id: "741D48E6AD90D2AF",
-          type: "item",
-          item: {
-            id: "ae2:guide",
-            count: 1,
-          },
+          id: "02244C1F907EB7EF",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -3334,6 +3326,14 @@
           },
         },
       ],
+      rewards: [
+        {
+          id: "483ED3724C02F3AE",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
+        },
+      ],
     },
     {
       x: -10.5,
@@ -3357,9 +3357,10 @@
       ],
       rewards: [
         {
-          id: "7B49A5D718AEC3FA",
+          id: "78C98A923342AC1D",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -3386,9 +3387,10 @@
       ],
       rewards: [
         {
-          id: "143837495F181ABF",
+          id: "635F90642C3AE763",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -3416,22 +3418,10 @@
       ],
       rewards: [
         {
-          id: "309D098B9AEDD290",
-          type: "item",
-          item: {
-            id: "ae2:fluid_cell_housing",
-            count: 1,
-          },
-          count: 3,
-        },
-        {
-          id: "3DF6656D8F7C2C38",
-          type: "item",
-          item: {
-            id: "ae2:item_cell_housing",
-            count: 1,
-          },
-          count: 3,
+          id: "01A6C3797CA25FB0",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -3486,9 +3476,10 @@
       ],
       rewards: [
         {
-          id: "015CBD30B9626CE2",
+          id: "5CB0E11EA77A0EA3",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -3555,9 +3546,10 @@
       ],
       rewards: [
         {
-          id: "24DA0874B8C197A3",
+          id: "2B4AC105F25E7EC7",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },
@@ -3600,6 +3592,14 @@
             id: "extendedae:threshold_export_bus",
             count: 1,
           },
+        },
+      ],
+      rewards: [
+        {
+          id: "13DB779383DA4CA0",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 3188555497912671082,
         },
       ],
     },

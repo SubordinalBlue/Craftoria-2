@@ -107,6 +107,10 @@
       "potion_effects": true,
       "painting": true
     },
+    "dimstorage": {
+      "dim_block_base": true,
+      "dim_tank": true
+    },
     "apothic_spawners": {
       "spawner": true
     },
@@ -187,6 +191,9 @@
     },
     "dynamic_difficulty": {
       "level": true
+    },
+    "neovitae": {
+      "block_info": true
     }
   }
 }

@@ -9,17 +9,15 @@
   filename: "getting_started",
   default_quest_shape: "",
   default_hide_dependency_lines: false,
+  autofocus_id: "78EDBDED3BFEC145",
   quests: [
     {
       icon: {
-        id: "ftbquests:custom_icon",
+        id: "craftoria:craftoria",
         count: 1,
-        components: {
-          "ftbquests:icon": "craftoria:textures/gui/craftoria.png",
-        },
       },
       x: 0.0,
-      y: 0.0,
+      y: -2.25,
       size: 1.5,
       id: "78EDBDED3BFEC145",
       tasks: [
@@ -60,106 +58,13 @@
     },
     {
       icon: {
-        id: "justdirethings:ferricore_pickaxe",
-        count: 1,
-      },
-      x: -3.5,
-      y: 0.0,
-      dependencies: [
-        "78EDBDED3BFEC145",
-      ],
-      id: "21E1E62AA4761EE2",
-      tasks: [
-        {
-          id: "15E07774D19A4B1A",
-          type: "checkmark",
-        },
-      ],
-    },
-    {
-      icon: {
-        id: "artifacts:warp_drive",
-        count: 1,
-      },
-      x: -5.0,
-      y: -2.5,
-      dependencies: [
-        "21E1E62AA4761EE2",
-      ],
-      id: "2E7A46639993CCDE",
-      tasks: [
-        {
-          id: "66BF2FED6B091A68",
-          type: "checkmark",
-        },
-      ],
-    },
-    {
-      icon: {
-        id: "occultism:book_of_binding_bound_djinni",
-        count: 1,
-        components: {
-          "occultism:spirit_name": "Harmid",
-        },
-      },
-      x: -5.0,
-      y: 2.0,
-      dependencies: [
-        "21E1E62AA4761EE2",
-      ],
-      id: "7B86C9C90997B3E3",
-      tasks: [
-        {
-          id: "1D870ED2303FAE8A",
-          type: "checkmark",
-        },
-      ],
-    },
-    {
-      icon: {
-        id: "enderio:iron_gear",
-        count: 1,
-      },
-      x: -3.0,
-      y: -2.5,
-      dependencies: [
-        "21E1E62AA4761EE2",
-      ],
-      id: "3C1D103FCEF249C8",
-      tasks: [
-        {
-          id: "5DAF1EE0903D876A",
-          type: "checkmark",
-        },
-      ],
-    },
-    {
-      icon: {
-        id: "minecraft:writable_book",
-        count: 1,
-      },
-      x: 3.5,
-      y: 0.0,
-      dependencies: [
-        "78EDBDED3BFEC145",
-      ],
-      id: "3189264EB89A2A5A",
-      tasks: [
-        {
-          id: "013281B2076D21ED",
-          type: "checkmark",
-        },
-      ],
-    },
-    {
-      icon: {
         id: "minecraft:globe_banner_pattern",
         count: 1,
       },
-      x: 3.0,
-      y: -2.5,
+      x: 2.5,
+      y: -0.5,
       dependencies: [
-        "3189264EB89A2A5A",
+        "78EDBDED3BFEC145",
       ],
       id: "2F9560A5281DCDFD",
       tasks: [
@@ -177,10 +82,10 @@
           "justdirethings:forge_energy": 500000,
         },
       },
-      x: 5.0,
-      y: -2.5,
+      x: 1.5,
+      y: 0.5,
       dependencies: [
-        "3189264EB89A2A5A",
+        "78EDBDED3BFEC145",
       ],
       id: "2BF835F8F73E8F06",
       tasks: [
@@ -195,10 +100,10 @@
         id: "ae2:blank_pattern",
         count: 1,
       },
-      x: 5.0,
-      y: 2.0,
+      x: 0.0,
+      y: 1.0,
       dependencies: [
-        "3189264EB89A2A5A",
+        "78EDBDED3BFEC145",
       ],
       id: "54EDB1B00E985AD4",
       tasks: [
@@ -213,8 +118,8 @@
         id: "artifacts:superstitious_hat",
         count: 1,
       },
-      x: -1.0,
-      y: 2.5,
+      x: -1.5,
+      y: 0.5,
       dependencies: [
         "78EDBDED3BFEC145",
       ],
@@ -231,8 +136,8 @@
         id: "minecraft:flowering_azalea_leaves",
         count: 1,
       },
-      x: 0.0,
-      y: -2.5,
+      x: -3.0,
+      y: -2.0,
       dependencies: [
         "78EDBDED3BFEC145",
       ],
@@ -248,11 +153,8 @@
           id: "01EA74B0DEA01464",
           type: "item",
           item: {
-            id: "ftbquests:missing_item",
+            id: "eclipticseasons:season_sensor",
             count: 1,
-            components: {
-              "ftbquests:missing_item": "sereneseasons:season_sensor",
-            },
           },
         },
       ],
@@ -262,8 +164,8 @@
         id: "minecraft:paper",
         count: 1,
       },
-      x: -1.5,
-      y: -2.0,
+      x: -2.5,
+      y: -0.5,
       dependencies: [
         "78EDBDED3BFEC145",
       ],
@@ -284,7 +186,7 @@
           "apotheosis:purity": "flawed",
         },
       },
-      x: 1.5,
+      x: 3.0,
       y: -2.0,
       dependencies: [
         "78EDBDED3BFEC145",
@@ -293,24 +195,6 @@
       tasks: [
         {
           id: "570D439C4AC9F64C",
-          type: "checkmark",
-        },
-      ],
-    },
-    {
-      icon: {
-        id: "minecraft:armor_stand",
-        count: 1,
-      },
-      x: 1.0,
-      y: 2.5,
-      dependencies: [
-        "78EDBDED3BFEC145",
-      ],
-      id: "0BF3E2C6D60A58BB",
-      tasks: [
-        {
-          id: "64433571E92D5E65",
           type: "checkmark",
         },
       ],

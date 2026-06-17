@@ -76,6 +76,7 @@
           id: "30D5FB9ADE68D4CD",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 2924399528588739882,
         },
       ],
     },
@@ -102,9 +103,10 @@
       ],
       rewards: [
         {
-          id: "2CCE17DD877D97B5",
+          id: "2B2FA9E31167C02B",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 2924399528588739882,
         },
       ],
     },
@@ -164,9 +166,10 @@
       ],
       rewards: [
         {
-          id: "1D5CD3B46336B7BF",
+          id: "566CE76268353237",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 2924399528588739882,
         },
       ],
     },
@@ -201,9 +204,10 @@
       ],
       rewards: [
         {
-          id: "58DDE743A724C887",
+          id: "27F1ECB18C9E5D1C",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 2924399528588739882,
         },
       ],
     },
@@ -238,9 +242,10 @@
       ],
       rewards: [
         {
-          id: "74B2B8B22F5315D1",
+          id: "5978EEC61351B983",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 2924399528588739882,
         },
       ],
     },
@@ -279,9 +284,10 @@
       ],
       rewards: [
         {
-          id: "681BD0AC1BB74719",
+          id: "4103996FCB21192A",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 2924399528588739882,
         },
       ],
     },
@@ -304,9 +310,10 @@
       ],
       rewards: [
         {
-          id: "00F17F2CFECC7A59",
+          id: "328A725FAA7D25B7",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 2924399528588739882,
         },
       ],
     },
@@ -329,9 +336,10 @@
       ],
       rewards: [
         {
-          id: "1E229538738BD37A",
+          id: "7E4718BD32D23338",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 2924399528588739882,
         },
       ],
     },
@@ -355,9 +363,10 @@
       ],
       rewards: [
         {
-          id: "40D5B7C9BF243FE6",
+          id: "22E792AF95D5F9CC",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 2924399528588739882,
         },
       ],
     },
@@ -380,9 +389,10 @@
       ],
       rewards: [
         {
-          id: "50442AFAFBEAB11E",
+          id: "653C8F51E38351DD",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 2924399528588739882,
         },
       ],
     },
@@ -405,9 +415,10 @@
       ],
       rewards: [
         {
-          id: "2FB499828CC88061",
+          id: "02325A55C61ADD6F",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 2924399528588739882,
         },
       ],
     },
@@ -430,9 +441,10 @@
       ],
       rewards: [
         {
-          id: "06EEF63E14EC4330",
+          id: "2452ECB506E83D4B",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 2924399528588739882,
         },
       ],
     },
@@ -463,9 +475,10 @@
       ],
       rewards: [
         {
-          id: "7781CF428C030980",
+          id: "2443E06988E6A339",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 2924399528588739882,
         },
       ],
     },
@@ -488,9 +501,10 @@
       ],
       rewards: [
         {
-          id: "342E107F66F43495",
+          id: "6ECC827323100587",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 2924399528588739882,
         },
       ],
     },
@@ -521,9 +535,10 @@
       ],
       rewards: [
         {
-          id: "4BBC1F3C1FF73FF0",
+          id: "2D4801BC781087C4",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 2924399528588739882,
         },
       ],
     },
@@ -544,9 +559,10 @@
       ],
       rewards: [
         {
-          id: "11031A7C1C9ED0B1",
+          id: "07E4D01AF3E758FE",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 2924399528588739882,
         },
       ],
     },
@@ -566,9 +582,10 @@
       ],
       rewards: [
         {
-          id: "432DA9C4490784DE",
+          id: "58677D45A7EDB0AA",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 2924399528588739882,
         },
       ],
     },
@@ -588,9 +605,10 @@
       ],
       rewards: [
         {
-          id: "2A71EC3D0F261F07",
+          id: "2A94A3627C2BD667",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 2924399528588739882,
         },
       ],
     },
@@ -617,9 +635,10 @@
       ],
       rewards: [
         {
-          id: "558EA934868517F8",
+          id: "7610BE94E26EAB37",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 2924399528588739882,
         },
       ],
     },
@@ -642,9 +661,10 @@
       ],
       rewards: [
         {
-          id: "2244F684471F42D2",
+          id: "711DB71E52FA362B",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 2924399528588739882,
         },
       ],
     },
@@ -667,9 +687,10 @@
       ],
       rewards: [
         {
-          id: "2F6289AA3FBFF4F8",
+          id: "1FABADC4A4201F32",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 2924399528588739882,
         },
       ],
     },
@@ -692,9 +713,10 @@
       ],
       rewards: [
         {
-          id: "019FCE77863FB289",
+          id: "2195882A06B149FD",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 2924399528588739882,
         },
       ],
     },
@@ -717,9 +739,10 @@
       ],
       rewards: [
         {
-          id: "18DBAB7ADD10ABB2",
+          id: "3140BB9BFA22271E",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 2924399528588739882,
         },
       ],
     },
@@ -742,9 +765,10 @@
       ],
       rewards: [
         {
-          id: "7838586037827B84",
+          id: "67F38D4FE58E1A94",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 2924399528588739882,
         },
       ],
     },
@@ -767,9 +791,10 @@
       ],
       rewards: [
         {
-          id: "1EAA00B7195D2FD4",
+          id: "3F3CB571015C603E",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 2924399528588739882,
         },
       ],
     },
@@ -792,9 +817,10 @@
       ],
       rewards: [
         {
-          id: "0F9047C6030D763A",
+          id: "2B9F8CBF5B4B52EB",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 2924399528588739882,
         },
       ],
     },
@@ -871,9 +897,10 @@
       ],
       rewards: [
         {
-          id: "1713118008698C20",
+          id: "1FC4AB8CBF962499",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 2924399528588739882,
         },
       ],
     },
@@ -960,9 +987,10 @@
       ],
       rewards: [
         {
-          id: "0A1AB6CE569670DA",
+          id: "1BAD8E1B12C16905",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 2924399528588739882,
         },
       ],
     },
@@ -1041,9 +1069,10 @@
       ],
       rewards: [
         {
-          id: "0165B5869C087C50",
+          id: "55269FF64ED653B7",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 2924399528588739882,
         },
       ],
     },
@@ -1090,9 +1119,10 @@
       ],
       rewards: [
         {
-          id: "0B045AFC630B8C89",
+          id: "6D675A394B6B0BB4",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 2924399528588739882,
         },
       ],
     },
@@ -1136,9 +1166,10 @@
       ],
       rewards: [
         {
-          id: "785A117152701877",
+          id: "59D378861FBD6E0C",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 2924399528588739882,
         },
       ],
     },
@@ -1161,9 +1192,10 @@
       ],
       rewards: [
         {
-          id: "7F4B93A6949567BC",
+          id: "35C24290F1B09F41",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 2924399528588739882,
         },
       ],
     },
@@ -1210,9 +1242,10 @@
       ],
       rewards: [
         {
-          id: "02B3A0638BCA63FA",
+          id: "429D2E5D74B4EE15",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 2924399528588739882,
         },
       ],
     },
@@ -1235,9 +1268,10 @@
       ],
       rewards: [
         {
-          id: "55212B8A1041832C",
+          id: "4CB0581197ED4466",
           type: "random",
           exclude_from_claim_all: true,
+          table_id: 2924399528588739882,
         },
       ],
     },
@@ -1259,7 +1293,7 @@
       y: -5.0,
       width: 0.5,
       height: 15.0,
-      rotation: 0,
+      rotation: 0.0,
       image: "theurgy:block/sal_ammoniac/flow",
       color: 16720214,
       id: "48FD5FD083D6C113",
@@ -1269,7 +1303,7 @@
       y: -5.0,
       width: 0.5,
       height: 15.0,
-      rotation: 0,
+      rotation: 0.0,
       image: "theurgy:block/sal_ammoniac/flow",
       color: 16720214,
       id: "0230ED32805F7DFE",
@@ -1279,7 +1313,7 @@
       y: -7.0,
       width: 2.0,
       height: 2.0,
-      rotation: 0,
+      rotation: 0.0,
       image: "theurgy:item/niters/gems_rare",
       order: 100,
       id: "1986D3620C44D436",
@@ -1309,7 +1343,7 @@
       y: -9.75,
       width: 8.0,
       height: 8.0,
-      rotation: 0,
+      rotation: 0.0,
       image: "ftbquests:textures/gui/title_theurgy.png",
       color: 16720214,
       id: "4AB82F71B5C0B10E",

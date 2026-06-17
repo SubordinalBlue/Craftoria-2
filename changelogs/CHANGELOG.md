@@ -1,3 +1,48 @@
+# Craftoria | v0.10.0
+
+_Neoforge_ 26.1.2.76 | _[Mod Updates](https://github.com/TeamAOF/Craftoria-2/blob/main/changelogs/changelog_mods_0.11.0.md)_ | _[Modlist](https://github.com/TeamAOF/Craftoria-2/blob/main/changelogs/modlist_0.11.0.md)_
+
+### Changes/Improvements ⭐
+
+* Implemented skill requirements for weapons, tools & armor `AK`
+* Added Occultism quest chapter `AK`
+* Added Theurgy quest chapter `AK`
+* Added Fishing quest chapter `AK`
+* Added Powah quest chapter `AK`
+* Added Just Dire Things quest chapter `AK`
+* Added Getting Started quest chapter `AK`
+* Added AE2 quest chapter `AK`
+
+### Added Mods ✅
+
+* [AE2 Network Analyser](https://curseforge.com/projects/961856)
+* [AEInfinityBooster](https://curseforge.com/projects/559313)
+* [Camol](https://curseforge.com/projects/1214396)
+* [DimStorage](https://curseforge.com/projects/353882)
+* [EdivadLib](https://curseforge.com/projects/638508)
+* [FastSuite](https://curseforge.com/projects/475117)
+* [FTB Filter System](https://curseforge.com/projects/943925)
+* [FTB Quests (NeoForge)](https://curseforge.com/projects/289412)
+* [FTB Teams (NeoForge)](https://curseforge.com/projects/404468)
+* [Get It Together, Drops!](https://curseforge.com/projects/411045)
+* [Just Enough Recipe Sharing (JERS)](https://curseforge.com/projects/1511109)
+* [Leaves Be Gone](https://curseforge.com/projects/686435)
+* [Little Big Redstone](https://curseforge.com/projects/1180560)
+* [Max Health Fix](https://curseforge.com/projects/492246)
+* [More Dragon Eggs](https://curseforge.com/projects/358700)
+* [Neo Vitae](https://curseforge.com/projects/1404763)
+* [PolyLib](https://curseforge.com/projects/576589)
+* [Reskillable Reimagined](https://curseforge.com/projects/1170464)
+* [Shrink.](https://curseforge.com/projects/426386)
+* [Sodium Extra](https://curseforge.com/projects/447673)
+* [Tesseract API (NeoForge)](https://curseforge.com/projects/1067672)
+
+### Removed Mods ❌
+
+* [Accelerated Decay](https://curseforge.com/projects/699872)
+* [Jobs+](https://curseforge.com/projects/916985)
+* [Welcome Message](https://curseforge.com/projects/551215)
+---
 # Craftoria | v0.9.0
 
 _Neoforge_ 26.1.2.75 | _[Mod Updates](https://github.com/TeamAOF/Craftoria-2/blob/main/changelogs/changelog_mods_0.9.0.md)_ | _[Modlist](https://github.com/TeamAOF/Craftoria-2/blob/main/changelogs/modlist_0.9.0.md)_

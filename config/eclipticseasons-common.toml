@@ -86,9 +86,9 @@
 	HeatStroke = true
 
 [Crop]
-	#Restrict plant growth based on their compatible seasons or humidity.
+	#Restrict plant growth based on their compatible seasons.
 	EnableSeasonalCrop = true
-	#Restrict plant growth based on local soil/environmental humidity.
+	#Restrict plant growth based on local environmental humidity.
 	EnableCropHumidityControl = true
 	#Smooths out humidity changes between different areas or time periods.
 	CropHumidityTransition = true
