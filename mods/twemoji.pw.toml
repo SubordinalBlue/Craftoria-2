@@ -1,13 +1,13 @@
 name = "Twemoji"
-filename = "twemoji-26.1.2-NeoForge-1.0.2.jar"
+filename = "twemoji-26.1.2-NeoForge-1.0.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "11a541efdbcff5bf77ee78035a5757454d8e993c"
+hash = "472fc99ad778d9b30ab5d5e3a7e41dd6a5616298"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8155583
+file-id = 8254415
 project-id = 1543001

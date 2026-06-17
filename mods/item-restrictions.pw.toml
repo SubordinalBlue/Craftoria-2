@@ -1,13 +1,13 @@
 name = "Item Restrictions"
-filename = "itemrestrictions-neoforge-20.1.1.jar"
+filename = "itemrestrictions-neoforge-20.1.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9f0f9136784764e3cd9ed66040be53ee38884e62"
+hash = "762a4c78a82c152f6f5865cf0eb284609f210138"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7905959
+file-id = 8249940
 project-id = 887774
