@@ -1,4 +1,4 @@
-# Craftoria - v0.11.0
+# Craftoria - v0.10.0
 
 ## Mods
 

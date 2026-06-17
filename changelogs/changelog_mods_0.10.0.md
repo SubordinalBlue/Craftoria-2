@@ -1,4 +1,4 @@
-## Craftoria - 0.10.0 -> 0.11.0
+## Craftoria - 0.9.0 -> 0.10.0
 
 ### Added Mods
 * [AE2 Network Analyser](https://curseforge.com/projects/961856)
