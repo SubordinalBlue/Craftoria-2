@@ -53,14 +53,8 @@
          * List Type: String
          */
         "loot_table_modid_blacklist": [],
-        /*
-         * List of 'problematic' loot tables which are automatically added to the Loot Table Blacklist. This shouldn't be edited by users.
-         * List Type: String
-         */
-        "problematic_loot_tables": [
-            "",
-            ""
-        ]
+        // Use Problematic Loot Tables
+        "use_problematic_loot_tables": true
     },
     "Breaking": {
         /*

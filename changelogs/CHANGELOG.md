@@ -1,3 +1,22 @@
+# Craftoria | v0.10.1
+
+_Neoforge_ 26.1.2.76 | _[Mod Updates](https://github.com/TeamAOF/Craftoria-2/blob/main/changelogs/changelog_mods_0.10.1.md)_ | _[Modlist](https://github.com/TeamAOF/Craftoria-2/blob/main/changelogs/modlist_0.10.1.md)_
+
+### Changes/Improvements ⭐
+
+* Updated Seasons quest description, easier to the eye `AK`
+* Removed attack & farming skill requirement for JDT paxels `AK`
+* Added skill requirement for sentient armor (33 Defense) `AK`
+* Lowered attack & defense max bonus from 100% to 25% `AK`
+
+### Added Mods ✅
+
+* [Wavey Capes](https://curseforge.com/projects/521594)
+
+### Bug Fixes 🪲
+
+* Fake players (JDT) not working with entries using level reqs `AK`
+---
 # Craftoria | v0.10.0
 
 _Neoforge_ 26.1.2.76 | _[Mod Updates](https://github.com/TeamAOF/Craftoria-2/blob/main/changelogs/changelog_mods_0.10.0.md)_ | _[Modlist](https://github.com/TeamAOF/Craftoria-2/blob/main/changelogs/modlist_0.10.0.md)_
