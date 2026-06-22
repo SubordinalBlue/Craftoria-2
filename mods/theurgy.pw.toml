@@ -1,13 +1,13 @@
 name = "Theurgy"
-filename = "theurgy-26.1.2-neoforge-1.109.0.jar"
+filename = "theurgy-26.1.2-neoforge-1.111.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bf4d9f5b1d27cbee361fe8aa9ae9531f19c8a6f1"
+hash = "ec426e13780881f58716ef0d3b5f644da52fcd23"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8186393
+file-id = 8294180
 project-id = 430636

@@ -1,13 +1,13 @@
 name = "Lootr (Forge & NeoForge)"
-filename = "lootr-neoforge-26.1.2-1.22.36.109.jar"
+filename = "lootr-neoforge-26.1.2-1.22.37.111.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8128645b8cf4d34440869cff9b3e59d915e41610"
+hash = "add03c8bc31d0923aab898887cf8e518f5d84dd7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7998243
+file-id = 8277509
 project-id = 361276
